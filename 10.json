@@ -1,0 +1,197 @@
+[
+    {
+        "description": "The W3C Digital Signature Working Group (\"DSig\") proposes a standard format for making digitally-signed, machine-readable assertions about a particular information resource. More generally, it is the goal of the DSig project to provide a mechanism to make the statement: signer believes statement about information resource. This document describes a method of utilizing PICS 1.1 labels with extensions to meet this goal.",
+        "title": "PICS Signed Labels (DSig) 1.0 Specification",
+        "shortname": "REC-DSig-label",
+        "shortlink": "https:\/\/www.w3.org\/TR\/REC-DSig-label\/",
+        "latest": {
+            "date": "2009-11-24",
+            "informative": false,
+            "editors": [
+                {
+                    "href": "https:\/\/api.w3.org\/users\/7let6tpeqc8wo84swcs044gcwsssoog",
+                    "title": "Yanghua Chu"
+                },
+                {
+                    "href": "https:\/\/api.w3.org\/users\/iau9h24j3ps8kcscg4c00ooo0csogc",
+                    "title": "Philip DesAutels"
+                },
+                {
+                    "href": "https:\/\/api.w3.org\/users\/bm404fuondw0kowogws8s40o4sgg08w",
+                    "title": "Brian LaMacchia"
+                },
+                {
+                    "href": "https:\/\/api.w3.org\/users\/hxl6dnwmabwos8wogok84sk8o80kw0",
+                    "title": "Peter Lipp"
+                }
+            ],
+            "status": "Recommendation",
+            "deliveries": [ { "href":"https:\/\/api.w3.org\/groups\/wg\/unknownwg", "title":"UNKNOWN WORKING GROUP" } ]
+        }
+    },
+    {
+        "description": "This document describes PNG (Portable Network Graphics), an extensible file format for the lossless, portable, well-compressed storage of raster images. PNG provides a patent-free replacement for GIF and can also replace many common uses of TIFF. Indexed-color, grayscale, and truecolor images are supported, plus an optional alpha channel. Sample depths range from 1 to 16 bits. PNG is designed to work well in online viewing applications, such as the World Wide Web, so it is fully streamable with a progressive display option. PNG is robust, providing both full file integrity checking and simple detection of common transmission errors. Also, PNG can store gamma and chromaticity data for improved color matching on heterogeneous platforms. This specification defines an Internet Media Type image\/png.",
+        "title": "Portable Network Graphics (PNG) Specification (Second Edition)",
+        "shortname": "png-1",
+        "shortlink": "https:\/\/www.w3.org\/TR\/PNG\/",
+        "latest": {
+            "date": "2003-11-10",
+            "informative": false,
+            "editors": [ {
+                    "href": "https:\/\/api.w3.org\/users\/g8a7xrsh27ks88ws8scos00gk04c4kg",
+                    "title": "David Duce"
+                } ],
+            "status": "Recommendation",
+            "deliveries": [ { "href":"https:\/\/api.w3.org\/groups\/wg\/unknownwg", "title":"UNKNOWN WORKING GROUP" } ]
+        }
+    },
+    {
+        "description": "This document has been prepared for the technical subcommittee of PICS (Platform for Internet Content Selection). It defines a general format for labels and three methods by which these labels may be transmitted:<ul><li>In an HTML document.<\/li><li>With a document transported via a protocol that uses RFC-822 headers.<\/li><li>Separately from the document.<\/li><\/ul>",
+        "title": "PICS 1.1 Label Distribution -- Label Syntax and Communication Protocols",
+        "shortname": "REC-PICS-labels",
+        "shortlink": "https:\/\/www.w3.org\/TR\/REC-PICS-labels\/",
+        "latest": {
+            "date": "2009-11-24",
+            "informative": false,
+            "editors": [
+                {
+                    "href": "https:\/\/api.w3.org\/users\/dh9gmsbvhxs80ksgwcswscgg0040sko",
+                    "title": "Tim Krauskopf"
+                },
+                {
+                    "href": "https:\/\/api.w3.org\/users\/k3eewu8vdq8w8wsws4g84g0gk840cck",
+                    "title": "Jim Miller"
+                },
+                {
+                    "href": "https:\/\/api.w3.org\/users\/eeg919yb2jw4gskw8o8kggwwwk0ksw0",
+                    "title": "Paul Resnick"
+                },
+                {
+                    "href": "https:\/\/api.w3.org\/users\/c69tl5u41qg40sggk8sksc848s0skwc",
+                    "title": "Win Treese"
+                }
+            ],
+            "status": "Recommendation",
+            "deliveries": [ { "href":"https:\/\/api.w3.org\/groups\/wg\/unknownwg", "title":"UNKNOWN WORKING GROUP" } ]
+        }
+    },
+    {
+        "description": "This document, which has been prepared for the technical subcommittee of <a href=\"https:\/\/www.w3.org\/PICS\">PICS (Platform for Internet Content Selection)<\/a>, defines a language for describing rating services. Software programs will read service descriptions written in this language, in order to interpret content labels and assist end-users in configuring selection software.",
+        "title": "PICS 1.1 Rating Services and Rating Systems -- and Their Machine Readable Descriptions",
+        "shortname": "REC-PICS-services",
+        "shortlink": "https:\/\/www.w3.org\/TR\/REC-PICS-services\/",
+        "latest": {
+            "date": "2009-11-24",
+            "informative": false,
+            "editors": [
+                {
+                    "href": "https:\/\/api.w3.org\/users\/k3eewu8vdq8w8wsws4g84g0gk840cck",
+                    "title": "Jim Miller"
+                },
+                {
+                    "href": "https:\/\/api.w3.org\/users\/eeg919yb2jw4gskw8o8kggwwwk0ksw0",
+                    "title": "Paul Resnick"
+                },
+                {
+                    "href": "https:\/\/api.w3.org\/users\/i1f5nfoa4tckg00ooock4co400owww4",
+                    "title": "David Singer"
+                }
+            ],
+            "status": "Recommendation",
+            "deliveries": [ { "href":"https:\/\/api.w3.org\/groups\/wg\/unknownwg", "title":"UNKNOWN WORKING GROUP" } ]
+        }
+    },
+    {
+        "description": "This document defines a language for writing profiles, which are filtering rules that allow or block access to URLs based on PICS labels that describe those URLs. This language is intended as a transmission format; individual implementations must be able to read and write their specifications in this language, but need not use this format internally.",
+        "title": "PICSRules 1.1 Specification",
+        "shortname": "REC-PICSRules",
+        "shortlink": "https:\/\/www.w3.org\/TR\/REC-PICSRules\/",
+        "latest": {
+            "date": "2009-11-24",
+            "informative": false,
+            "editors": [
+                {
+                    "href": "https:\/\/api.w3.org\/users\/63c4c7sr5e88wwk8so4sskssck8g8ok",
+                    "title": "Christopher Evans"
+                },
+                {
+                    "href": "https:\/\/api.w3.org\/users\/qmvpdn1ebqscockwo4ks48oksssokk8",
+                    "title": "Alex Hopmann"
+                },
+                {
+                    "href": "https:\/\/api.w3.org\/users\/f7d2aunz5z400wswkg088k8cgs488ss",
+                    "title": "Martin PreslerMarshall"
+                },
+                {
+                    "href": "https:\/\/api.w3.org\/users\/eeg919yb2jw4gskw8o8kggwwwk0ksw0",
+                    "title": "Paul Resnick"
+                }
+            ],
+            "status": "Recommendation",
+            "deliveries": [ { "href":"https:\/\/api.w3.org\/groups\/wg\/unknownwg", "title":"UNKNOWN WORKING GROUP" } ]
+        }
+    },
+    {
+        "description": "Any XML document is part of a set of XML documents that are logically equivalent within an application context, but which vary in physical representation based on syntactic changes permitted by XML 1.0 [XML] and Namespaces in XML [Names]. This specification describes a method for generating a physical representation, the canonical form, of an XML document that accounts for the permissible changes. Except for limitations regarding a few unusual cases, if two documents have the same canonical form, then the two documents are logically equivalent within the given application context. Note that two documents may have differing canonical forms yet still be equivalent in a given context based on application-specific equivalence rules for which no generalized XML specification could account.",
+        "title": "Canonical XML Version 1.0",
+        "shortname": "xml-c14n10",
+        "shortlink": "https:\/\/www.w3.org\/TR\/xml-c14n\/",
+        "latest": {
+            "date": "2001-03-15",
+            "informative": false,
+            "editors": [ {
+                    "href": "https:\/\/api.w3.org\/users\/pkpttz730pw4wswkwgcc4wgo8s4w4sw",
+                    "title": "John Boyer"
+                } ],
+            "status": "Recommendation",
+            "deliveries": [
+                { "href":"https:\/\/api.w3.org\/groups\/wg\/xmlsec", "title":"XML Security Working Group" },
+                { "href":"https:\/\/api.w3.org\/groups\/wg\/unknownwg", "title":"UNKNOWN WORKING GROUP" }
+            ]
+        }
+    },
+    {
+        "description": "[2]This document specifies protocol bindings with security characteristics for the XML Key Management Specification (XKMS).",
+        "title": "XML Key Management Specification (XKMS 2.0) Bindings",
+        "shortname": "xkms2-bindings",
+        "shortlink": "https:\/\/www.w3.org\/TR\/xkms2-bindings\/",
+        "latest": {
+            "date": "2005-06-28",
+            "informative": false,
+            "editors": [
+                {
+                    "href": "https:\/\/api.w3.org\/users\/bb5xpnagt8o4k0o08k4cswgk404csow",
+                    "title": "Phillip Hallam-Baker"
+                },
+                {
+                    "href": "https:\/\/api.w3.org\/users\/m9g4joifruowow8kwgcg8s4ko0ggc00",
+                    "title": "Shivaram Mysore"
+                }
+            ],
+            "status": "Recommendation",
+            "deliveries": [ { "href":"https:\/\/api.w3.org\/groups\/wg\/unknownwg", "title":"UNKNOWN WORKING GROUP" } ]
+        }
+    },
+    {
+        "description": "[2]This document specifies protocols for distributing and registering public keys, suitable for use in conjunction with the W3C Recommendations for XML Signature [XML-SIG] and XML Encryption [XML-Enc]. The XML Key Management Specification (XKMS) comprises two parts — the XML Key Information Service Specification (X-KISS) and the XML Key Registration Service Specification (X-KRSS).",
+        "title": "XML Key Management Specification (XKMS 2.0)",
+        "shortname": "xkms2",
+        "shortlink": "https:\/\/www.w3.org\/TR\/xkms2\/",
+        "latest": {
+            "date": "2005-06-28",
+            "informative": false,
+            "editors": [
+                {
+                    "href": "https:\/\/api.w3.org\/users\/bb5xpnagt8o4k0o08k4cswgk404csow",
+                    "title": "Phillip Hallam-Baker"
+                },
+                {
+                    "href": "https:\/\/api.w3.org\/users\/m9g4joifruowow8kwgcg8s4ko0ggc00",
+                    "title": "Shivaram Mysore"
+                }
+            ],
+            "status": "Recommendation",
+            "deliveries": [ { "href":"https:\/\/api.w3.org\/groups\/wg\/unknownwg", "title":"UNKNOWN WORKING GROUP" } ]
+        }
+    }
+]

@@ -1,0 +1,204 @@
+[
+    {
+      "description": "This document describes a loosely coupled architecture for multimodal user interfaces, which allows for co-resident and distributed implementations, and focuses on the role of markup and scripting, and the use of well defined interfaces between its constituents.",
+      "title": "Multimodal Architecture and Interfaces",
+      "shortname": "mmi-arch",
+      "shortlink": "https:\/\/www.w3.org\/TR\/mmi-arch\/",
+      "latest": {
+        "date": "2012-10-25",
+        "informative": false,
+        "editors": [  ],
+        "status": "Recommendation",
+        "deliveries": [ {
+            "href": "https:\/\/api.w3.org\/groups\/wg\/mmi",
+            "title": "Multimodal Interaction Working Group"
+          } ]
+      }
+    },
+    {
+      "description": "This document serves as an introduction to OWL 2 and the various other OWL 2 documents. It describes the syntaxes for OWL 2, the different kinds of semantics, the available profiles (sub-languages), and the relationship between OWL 1 and OWL 2.",
+      "title": "OWL 2 Web Ontology Language Document Overview (Second Edition)",
+      "shortname": "owl2-overview",
+      "shortlink": "https:\/\/www.w3.org\/TR\/owl2-overview\/",
+      "latest": {
+        "date": "2012-12-11",
+        "informative": true,
+        "editors": [  ],
+        "status": "Recommendation",
+        "deliveries": [ { "href":"https:\/\/api.w3.org\/groups\/wg\/owl", "title":"OWL Working Group" } ]
+      }
+    },
+    {
+      "description": "This document is an overview of SPARQL 1.1. It provides an introduction to a set of W3C specifications that facilitate querying and manipulating RDF graph content on the Web or in an RDF store.",
+      "title": "SPARQL 1.1 Overview",
+      "shortname": "sparql11-overview",
+      "shortlink": "https:\/\/www.w3.org\/TR\/sparql11-overview\/",
+      "latest": {
+        "date": "2013-03-21",
+        "informative": false,
+        "editors": [  ],
+        "status": "Recommendation",
+        "deliveries": [ { "href":"https:\/\/api.w3.org\/groups\/wg\/sparql", "title":"SPARQL Working Group" } ]
+      }
+    },
+    {
+      "description": "This is an extension to HTML which explicitly identifies a transcript linked to a media object such as audio or video.",
+      "title": "A transcript extension for HTML",
+      "shortname": "html-transcript-src",
+      "shortlink": "https:\/\/www.w3.org\/TR\/html-transcript-src\/",
+      "latest": {
+        "date": "2015-10-01",
+        "informative": false,
+        "editors": [  ],
+        "status": "Retired",
+        "deliveries": [ {
+            "href": "https:\/\/api.w3.org\/groups\/wg\/html",
+            "title": "HTML Media Extensions Working Group"
+          } ]
+      }
+    },
+    {
+      "description": "Frame Timing helps web developers measure the performance of their\r\napplications by giving them access to frame performance data to\r\nfacilitate smoothness measurements.",
+      "title": "Frame Timing",
+      "shortname": "frame-timing",
+      "shortlink": "https:\/\/www.w3.org\/TR\/frame-timing\/",
+      "latest": {
+        "date": "2016-07-20",
+        "informative": false,
+        "editors": [  ],
+        "status": "Retired",
+        "deliveries": [ {
+            "href": "https:\/\/api.w3.org\/groups\/wg\/webperf",
+            "title": "Web Performance Working Group"
+          } ]
+      }
+    },
+    {
+      "description": "This document defines a mechanism by which a web page can embed a nested browsing context if and only if it agrees to enforce a particular set of restrictions upon itself.",
+      "title": "Content Security Policy: Embedded Enforcement",
+      "shortname": "csp-embedded-enforcement",
+      "shortlink": "https:\/\/www.w3.org\/TR\/csp-embedded-enforcement\/",
+      "latest": {
+        "date": "2016-09-09",
+        "informative": false,
+        "editors": [  ],
+        "status": "Working Draft",
+        "deliveries": [ {
+            "href": "https:\/\/api.w3.org\/groups\/wg\/webappsec",
+            "title": "Web Application Security Working Group"
+          } ]
+      }
+    },
+    {
+      "description": "The document defines the Initialization Data formats for use with the Encrypted Media Extensions API.",
+      "title": "Encrypted Media Extensions Initialization Data Format Registry",
+      "shortname": "eme-initdata-registry",
+      "shortlink": "https:\/\/www.w3.org\/TR\/eme-initdata-registry\/",
+      "latest": {
+        "date": "2016-09-15",
+        "informative": false,
+        "editors": [  ],
+        "status": "Note",
+        "deliveries": [ {
+            "href": "https:\/\/api.w3.org\/groups\/wg\/html",
+            "title": "HTML Media Extensions Working Group"
+          } ]
+      }
+    },
+    {
+      "description": "This document defines the \"keyids\" Initialization Data format for use with the Encrypted Media Extensions API. It defines a stream format-independent format for specifying a list of key ID(s).",
+      "title": "\"keyids\" Initialization Data Format",
+      "shortname": "eme-initdata-keyids",
+      "shortlink": "https:\/\/www.w3.org\/TR\/eme-initdata-keyids\/",
+      "latest": {
+        "date": "2016-09-15",
+        "informative": false,
+        "editors": [  ],
+        "status": "Note",
+        "deliveries": [ {
+            "href": "https:\/\/api.w3.org\/groups\/wg\/html",
+            "title": "HTML Media Extensions Working Group"
+          } ]
+      }
+    },
+    {
+      "description": "This document defines the \"webm\" Initialization Data format for use with the Encrypted Media Extensions API.",
+      "title": "\"webm\" Initialization Data Format",
+      "shortname": "eme-initdata-webm",
+      "shortlink": "https:\/\/www.w3.org\/TR\/eme-initdata-webm\/",
+      "latest": {
+        "date": "2016-09-15",
+        "informative": false,
+        "editors": [  ],
+        "status": "Note",
+        "deliveries": [ {
+            "href": "https:\/\/api.w3.org\/groups\/wg\/html",
+            "title": "HTML Media Extensions Working Group"
+          } ]
+      }
+    },
+    {
+      "description": "This document defines the \"cenc\" Initialization Data format for use with the Encrypted Media Extensions API. It is commonly used with the ISO Common Encryption ('cenc') Protection Scheme for ISO Base Media File Format Stream Format.",
+      "title": "\"cenc\" Initialization Data Format",
+      "shortname": "eme-initdata-cenc",
+      "shortlink": "https:\/\/www.w3.org\/TR\/eme-initdata-cenc\/",
+      "latest": {
+        "date": "2016-09-15",
+        "informative": false,
+        "editors": [  ],
+        "status": "Note",
+        "deliveries": [ {
+            "href": "https:\/\/api.w3.org\/groups\/wg\/html",
+            "title": "HTML Media Extensions Working Group"
+          } ]
+      }
+    },
+    {
+      "description": "This document defines the stream formats for use with the Encrypted Media Extensions API.",
+      "title": "Encrypted Media Extensions Stream Format Registry",
+      "shortname": "eme-stream-registry",
+      "shortlink": "https:\/\/www.w3.org\/TR\/eme-stream-registry\/",
+      "latest": {
+        "date": "2016-09-15",
+        "informative": false,
+        "editors": [  ],
+        "status": "Note",
+        "deliveries": [ {
+            "href": "https:\/\/api.w3.org\/groups\/wg\/html",
+            "title": "HTML Media Extensions Working Group"
+          } ]
+      }
+    },
+    {
+      "description": "This document defines the stream format for using WebM content with the Encrypted Media Extensions API.",
+      "title": "WebM Stream Format",
+      "shortname": "eme-stream-webm",
+      "shortlink": "https:\/\/www.w3.org\/TR\/eme-stream-webm\/",
+      "latest": {
+        "date": "2016-09-15",
+        "informative": false,
+        "editors": [  ],
+        "status": "Note",
+        "deliveries": [ {
+            "href": "https:\/\/api.w3.org\/groups\/wg\/html",
+            "title": "HTML Media Extensions Working Group"
+          } ]
+      }
+    },
+    {
+      "description": "This document defines the stream format for using ISO Base Media File Format content that uses the ISO Common Encryption ('cenc') protection scheme with the Encrypted Media Extensions API.",
+      "title": "ISO Common Encryption ('cenc') Protection Scheme for ISO Base Media File Format Stream Format",
+      "shortname": "eme-stream-mp4",
+      "shortlink": "https:\/\/www.w3.org\/TR\/eme-stream-mp4\/",
+      "latest": {
+        "date": "2016-09-15",
+        "informative": false,
+        "editors": [  ],
+        "status": "Note",
+        "deliveries": [ {
+            "href": "https:\/\/api.w3.org\/groups\/wg\/html",
+            "title": "HTML Media Extensions Working Group"
+          } ]
+      }
+    }
+  ]
