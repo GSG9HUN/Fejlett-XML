@@ -3,7 +3,7 @@ declare namespace output = "http://www.w3.org/2010/xslt-xquery-serialization";
 declare option output:method "html";
 declare option output:html-version "5.0";
 declare option output:indent "yes";
-let $json := json-doc("XML.json")
+let $json := json-doc("specifications.json")
 let $html := <html>
     <head>
       <title>HTML Lap</title>

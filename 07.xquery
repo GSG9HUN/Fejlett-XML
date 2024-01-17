@@ -6,7 +6,7 @@ declare option output:html-version "5.0";
 declare option output:indent "yes";
 
 
-let $json := json-doc("XML.json")
+let $json := json-doc("specifications.json")
 
 let $filtered := for $element in $json?*
     where $element?latest?status = "Working Draft"   and 

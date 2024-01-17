@@ -1,9 +1,10 @@
 (: Lekérdezés: Megkeresi azt a dátumot amikor a legtöbb specifikációt adták ki. :)
+xquery version "3.1";
 
-import schema default element namespace "" at "01.xsd";
+import schema default element namespace "" at "03.xsd";
 
 
-let $json := json-doc("XML.json")
+let $json := json-doc("specifications.json")
 let $dates :=
   for $doc in $json?*
   let $date := $doc?latest?date
@@ -27,7 +28,7 @@ let $maxDate :=
   return ($sorted[1],$sorted[2])
 
 let $result := <maxVersionDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                   xsi:noNamespaceSchemaLocation="01.xsd">
+                   xsi:noNamespaceSchemaLocation="03.xsd">
                    <date>{data($maxDate[1])}</date>
                     <versionCount>{data($maxDate[2])}</versionCount>
     </maxVersionDate>
