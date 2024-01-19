@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<selectedSpecifications xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                        xsi:noNamespaceSchemaLocation="04.xsd">
+    <specification>
+        <title>Precision Graphics Markup Language (PGML)</title>
+        <description>&lt;p&gt;This document is the specification for the Precision Graphics Markup Language (PGML). PGML is a 2D scalable graphics language designed to meet both the simple vector graphics needs of casual users and the precision needs of graphics artists. PGML uses the imaging model common to the PostScript® language and Portable Document Format (PDF); it also contains additional features to satisfy the needs of Web applications.&lt;/p&gt;</description>
+        <shortname>PGML</shortname>
+        <shortlink>https://www.w3.org/TR/1998/NOTE-PGML</shortlink>
+        <latestData>
+            <date>1998-04-10</date>
+            <status>Note</status>
+            <editorsNumber>3</editorsNumber>
+            <deliverersNumber>1</deliverersNumber>
+        </latestData>
+    </specification>
+    <specification>
+        <title>Vector Markup Language (VML)</title>
+        <description>&lt;p&gt;This document defines the Vector Markup Language (VML).&amp;nbsp; VML is an application of &lt;a href="http://www.w3.org/TR/REC-xml.html"&gt;Extensible Markup Language (XML) 1.0&lt;/a&gt; which defines a format for the encoding of vector information together with additional markup to describe how that information may be displayed and edited&lt;/p&gt;</description>
+        <shortname>VML</shortname>
+        <shortlink>https://www.w3.org/TR/NOTE-VML</shortlink>
+        <latestData>
+            <date>1998-05-13</date>
+            <status>Note</status>
+            <editorsNumber>4</editorsNumber>
+            <deliverersNumber>1</deliverersNumber>
+        </latestData>
+    </specification>
+    <specification>
+        <title>DrawML Specification</title>
+        <description>&lt;p&gt;This document is the DrawML specification. DrawML is an application of Extensible Markup Language (XML) 1.0. DrawML is a 2D scalable graphics language designed to facilitate the  creation of simple technical drawings. Furthermore (and most importantly), DrawML focuses on the process of maintaining and refining a drawing. A drawing should be as easy to update as the document it resides in.&lt;/p&gt;</description>
+        <shortname>drawml</shortname>
+        <shortlink>https://www.w3.org/TR/NOTE-drawml</shortlink>
+        <latestData>
+            <date>1998-12-03</date>
+            <status>Note</status>
+            <editorsNumber>1</editorsNumber>
+            <deliverersNumber>1</deliverersNumber>
+        </latestData>
+    </specification>
+    <specification>
+        <title>Personalized Information Description Language (PIDL)</title>
+        <description>&lt;p&gt;This document describes an XML syntax for the Personalized Information Description Language (PIDL). The purpose of PIDL is to facilitate personalization of online information by providing enhanced interoperability between personalization applications. PIDL provides a common framework for applications to progressively process original contents and append personalized versions in a compact format. PIDL supports the personalization of different media (e.g. plain text, structured text, graphics, etc), multiple personalization methods (such as filtering, sorting, replacing, etc) and different delivery methods (for example SMTP, HTTP, IP-multicasting, etc).&lt;/p&gt;</description>
+        <shortname>PIDL</shortname>
+        <shortlink>https://www.w3.org/TR/NOTE-PIDL</shortlink>
+        <latestData>
+            <date>1999-02-09</date>
+            <status>Note</status>
+            <editorsNumber>2</editorsNumber>
+            <deliverersNumber>1</deliverersNumber>
+        </latestData>
+    </specification>
+    <specification>
+        <title>SMIL Animation</title>
+        <description>&lt;p&gt;This is a W3C Recommendation of a specification of animation functionality for XML documents.  It describes an animation framework as well as a set of base XML animation elements suitable for integration with XML documents. It is based upon the SMIL 1.0 timing model, with some extensions, and is a true subset of SMIL 2.0. This provides an intermediate stepping stone in terms of implementation complexity, for applications that wish to have SMIL-compatible animation but do not need or want time containers.&lt;/p&gt;</description>
+        <shortname>smil-animation</shortname>
+        <shortlink>https://www.w3.org/TR/smil-animation/</shortlink>
+        <latestData>
+            <date>2001-09-04</date>
+            <status>Recommendation</status>
+            <editorsNumber>2</editorsNumber>
+            <deliverersNumber>2</deliverersNumber>
+        </latestData>
+    </specification>
+    <specification>
+        <title>Accessibility Features of SVG</title>
+        <description>&lt;p&gt;Scalable Vector Graphics (SVG) offers a number of features to make graphics on the Web more accessible than is currently possible, to a wider group of users. Users who benefit include users with low vision, color blind or blind users, and users of assistive technologies. A number of these SVG features can also increase usability of content for many users without disabilities, such as users of personal digital assistants, mobile phones or other non-traditional Web access devices.&lt;/p&gt;&lt;p&gt;Accessibility requires that the features offered by SVG are correctly used and supported. This Note describes the SVG features that support accessibility and illustrates their use with examples.&lt;/p&gt;</description>
+        <shortname>SVG-access</shortname>
+        <shortlink>https://www.w3.org/TR/SVG-access/</shortlink>
+        <latestData>
+            <date>2000-08-07</date>
+            <status>Note</status>
+            <editorsNumber>2</editorsNumber>
+            <deliverersNumber>1</deliverersNumber>
+        </latestData>
+    </specification>
+    <specification>
+        <title>Scalable Vector Graphics (SVG) 1.1 (Second Edition)</title>
+        <description>&lt;p&gt;This specification defines the features and syntax for Scalable Vector Graphics (SVG) Version 1.1, a modularized language for describing two-dimensional vector and mixed vector/raster graphics in XML.&lt;/p&gt;</description>
+        <shortname>SVG11</shortname>
+        <shortlink>https://www.w3.org/TR/SVG11/</shortlink>
+        <latestData>
+            <date>2011-08-16</date>
+            <status>Recommendation</status>
+            <editorsNumber>10</editorsNumber>
+            <deliverersNumber>1</deliverersNumber>
+        </latestData>
+    </specification>
+    <specification>
+        <title>Scalable Vector Graphics (SVG) Tiny 1.2 Specification</title>
+        <description>&lt;p&gt;This specification defines the features and syntax for Scalable Vector Graphics (SVG) Tiny, Version 1.2, a language for describing two-dimensional vector graphics in XML, combined with raster graphics and multimedia. Its goal is to provide the ability to create a whole range of graphical content, from static images to animations to interactive Web applications. SVG 1.2 Tiny is a profile of SVG intended for implementation on a range of devices, from cellphones and PDAs to laptop and desktop computers, and thus includes a subset of the features included in SVG 1.1 Full, along with new features to extend the capabilities of SVG. Further extensions are planned in the form of modules which will be compatible with SVG 1.2 Tiny, and which when combined with this specification, will match and exceed the capabilities of SVG 1.1 Full.&lt;/p&gt;</description>
+        <shortname>SVGTiny12</shortname>
+        <shortlink>https://www.w3.org/TR/SVGTiny12/</shortlink>
+        <latestData>
+            <date>2008-12-22</date>
+            <status>Recommendation</status>
+            <editorsNumber>17</editorsNumber>
+            <deliverersNumber>1</deliverersNumber>
+        </latestData>
+    </specification>
+    <specification>
+        <title>SVG Color 1.2, Part 2: Language</title>
+        <description>&lt;p&gt;This specification extends SVG for color-managed environments such as print, photography and graphics arts. &lt;/p&gt;</description>
+        <shortname>SVGColor12</shortname>
+        <shortlink>https://www.w3.org/TR/SVGColor12/</shortlink>
+        <latestData>
+            <date>2009-10-01</date>
+            <status>Working Draft</status>
+            <editorsNumber>2</editorsNumber>
+            <deliverersNumber>1</deliverersNumber>
+        </latestData>
+    </specification>
+    <specification>
+        <title>CSS Images Module Level 3</title>
+        <description>&lt;p&gt; The draft defines how to refer to images and other external objects from within CSS, including fallback images in different formats, special URLs for vector images of color gradients, and different ways to set the size of images and other objects. &lt;/p&gt;</description>
+        <shortname>css-images-3</shortname>
+        <shortlink>https://www.w3.org/TR/css-images-3/</shortlink>
+        <latestData>
+            <date>2023-12-18</date>
+            <status>Candidate Recommendation Draft</status>
+            <editorsNumber>3</editorsNumber>
+            <deliverersNumber>1</deliverersNumber>
+        </latestData>
+    </specification>
+    <specification>
+        <title>Timing control for script-based animations</title>
+        <description>&lt;p&gt; This document defines an API web page authors can use to write script-based animations where the user agent is in control of limiting the update rate of the animation. &lt;/p&gt;</description>
+        <shortname>animation-timing</shortname>
+        <shortlink>https://www.w3.org/TR/animation-timing/</shortlink>
+        <latestData>
+            <date>2015-09-22</date>
+            <status>Retired</status>
+            <editorsNumber>2</editorsNumber>
+            <deliverersNumber>1</deliverersNumber>
+        </latestData>
+    </specification>
+    <specification>
+        <title>HTML Canvas 2D Context, Level 2</title>
+        <description>&lt;p&gt;This specification defines the 2D Context, Level 2 for the HTML canvas element. The 2D Context provides objects, methods, and properties to draw and manipulate graphics on a canvas drawing surface.&lt;/p&gt;</description>
+        <shortname>2dcontext2</shortname>
+        <shortlink>https://www.w3.org/TR/2dcontext2/</shortlink>
+        <latestData>
+            <date>2015-09-29</date>
+            <status>Retired</status>
+            <editorsNumber>5</editorsNumber>
+            <deliverersNumber>1</deliverersNumber>
+        </latestData>
+    </specification>
+    <specification>
+        <title>Scalable Vector Graphics (SVG) 2</title>
+        <description>&lt;p&gt;This specification defines the features and syntax for Scalable Vector Graphics (SVG) Version 2, a language for describing two-dimensional vector and mixed vector/raster graphics. Although an XML serialization is given, processing is defined in terms of a DOM.&lt;/p&gt;</description>
+        <shortname>SVG2</shortname>
+        <shortlink>https://www.w3.org/TR/SVG2/</shortlink>
+        <latestData>
+            <date>2018-10-04</date>
+            <status>Candidate Recommendation Snapshot</status>
+            <editorsNumber>6</editorsNumber>
+            <deliverersNumber>1</deliverersNumber>
+        </latestData>
+    </specification>
+    <specification>
+        <title>CSS Masking Module Level 1</title>
+        <description>&lt;p&gt;CSS Masking provides two means for partially or fully hiding portions of visual elements: masking and clipping. &lt;/p&gt;&#xD;
+&#xD;
+&lt;p&gt;Masking describes how to use another graphical element or image as a luminance or alpha mask. Typically, rendering an element via CSS or SVG can conceptually be described as if the element, including its children, are drawn into a buffer and then that buffer is composited into the element’s parent. Luminance and alpha masks influence the transparency of this buffer before the compositing stage.&lt;/p&gt;&#xD;
+&#xD;
+&lt;p&gt;Clipping describes the visible region of visual elements. The region can be described by using certain SVG graphics elements or basic shapes. Anything outside of this region is not rendered.&lt;/p&gt;</description>
+        <shortname>css-masking-1</shortname>
+        <shortlink>https://www.w3.org/TR/css-masking-1/</shortlink>
+        <latestData>
+            <date>2021-08-05</date>
+            <status>Candidate Recommendation Draft</status>
+            <editorsNumber>3</editorsNumber>
+            <deliverersNumber>1</deliverersNumber>
+        </latestData>
+    </specification>
+    <specification>
+        <title>SVG Integration</title>
+        <description>&lt;p&gt;SVG Integration defines how SVG documents must be processed when used&#xD;
+in various contexts, such as CSS background images, HTML ‘iframe’&#xD;
+elements, and so on. These requirements include which features are&#xD;
+restricted or disabled, such as scripting and animation.&lt;/p&gt;</description>
+        <shortname>svg-integration</shortname>
+        <shortlink>https://www.w3.org/TR/svg-integration/</shortlink>
+        <latestData>
+            <date>2014-04-17</date>
+            <status>First Public Working Draft</status>
+            <editorsNumber>3</editorsNumber>
+            <deliverersNumber>1</deliverersNumber>
+        </latestData>
+    </specification>
+    <specification>
+        <title>CSS Will Change Module Level 1</title>
+        <description>&lt;p&gt;The 'will-change' property allows an author to inform the UA what kinds&#xD;
+    of style changes are likely to be made to an element, e.g., as a result&#xD;
+    of animations or other dynamic effects. This allows the UA to optimize&#xD;
+    how it handles the element.&lt;/p&gt;</description>
+        <shortname>css-will-change-1</shortname>
+        <shortlink>https://www.w3.org/TR/css-will-change-1/</shortlink>
+        <latestData>
+            <date>2022-05-05</date>
+            <status>Candidate Recommendation Draft</status>
+            <editorsNumber>1</editorsNumber>
+            <deliverersNumber>1</deliverersNumber>
+        </latestData>
+    </specification>
+    <specification>
+        <title>Motion Path Module Level 1</title>
+        <description>&lt;p&gt;The Motion Path module of CSS defines an additional way to define the&#xD;
+    position and rotation of elements when rendering a document. The&#xD;
+    position is given by a trajectory and an offset along that trajectory&#xD;
+    between 0 and 100%. In combination with animations, the offset can also&#xD;
+    be animated.&lt;/p&gt;</description>
+        <shortname>motion-1</shortname>
+        <shortlink>https://www.w3.org/TR/motion-1/</shortlink>
+        <latestData>
+            <date>2018-12-18</date>
+            <status>Working Draft</status>
+            <editorsNumber>4</editorsNumber>
+            <deliverersNumber>1</deliverersNumber>
+        </latestData>
+    </specification>
+    <specification>
+        <title>WAI-ARIA Graphics Module</title>
+        <description>&lt;p&gt;Defines a WAI-ARIA module of core roles, states and properties specific to web graphics. These semantics allow an author to express the logical structure of the graphic to assistive technologies, allowing assistive technologies to provide semantic navigation and adapt styling and interactive features.&lt;/p&gt;</description>
+        <shortname>graphics-aria-1.0</shortname>
+        <shortlink>https://www.w3.org/TR/graphics-aria-1.0/</shortlink>
+        <latestData>
+            <date>2018-10-02</date>
+            <status>Recommendation</status>
+            <editorsNumber>3</editorsNumber>
+            <deliverersNumber>1</deliverersNumber>
+        </latestData>
+    </specification>
+    <specification>
+        <title>CSS Easing Functions Level 1</title>
+        <description>&lt;p&gt;This CSS module describes a way for authors to define a transformation to be applied to the time of an animation. This can be used to produce animations that mimic physical phenomena such as momentum or to cause the animation to move in discrete steps producing robot-like movement.&lt;/p&gt;</description>
+        <shortname>css-easing-1</shortname>
+        <shortlink>https://www.w3.org/TR/css-easing-1/</shortlink>
+        <latestData>
+            <date>2023-02-13</date>
+            <status>Candidate Recommendation Draft</status>
+            <editorsNumber>3</editorsNumber>
+            <deliverersNumber>1</deliverersNumber>
+        </latestData>
+    </specification>
+    <specification>
+        <title>CSS Animation Worklet API</title>
+        <description>&lt;p&gt;The Animation Worklet API provides a method to create scripted animations that control a set of animation effects. The API is designed to make it possible for user agents to run such animations in their own dedicated thread to provide a degree of performance isolation from main thread.&lt;/p&gt;</description>
+        <shortname>css-animation-worklet-1</shortname>
+        <shortlink>https://www.w3.org/TR/css-animation-worklet-1/</shortlink>
+        <latestData>
+            <date>2019-06-25</date>
+            <status>First Public Working Draft</status>
+            <editorsNumber>3</editorsNumber>
+            <deliverersNumber>1</deliverersNumber>
+        </latestData>
+    </specification>
+    <specification>
+        <title>CSS Animations Level 2</title>
+        <description>&lt;p&gt;This CSS module describes a way for authors to animate the values of CSS properties over time, using keyframes. The behavior of these keyframe animations can be controlled by specifying their duration, number of repeats, and repeating behavior.&lt;/p&gt;</description>
+        <shortname>css-animations-2</shortname>
+        <shortlink>https://www.w3.org/TR/css-animations-2/</shortlink>
+        <latestData>
+            <date>2023-06-02</date>
+            <status>Working Draft</status>
+            <editorsNumber>2</editorsNumber>
+            <deliverersNumber>1</deliverersNumber>
+        </latestData>
+    </specification>
+    <specification>
+        <title>Proposals for Gathering Consumer Demographics</title>
+        <description>&lt;p&gt;Proposals for Gathering Consumer Demographics.&lt;/p&gt;</description>
+        <shortname>Proposals</shortname>
+        <shortlink>https://www.w3.org/Demographics/Proposals</shortlink>
+        <latestData>
+            <date>1995-11-06</date>
+            <status>Note</status>
+            <editorsNumber>1</editorsNumber>
+            <deliverersNumber>1</deliverersNumber>
+        </latestData>
+    </specification>
+    <specification>
+        <title>WebCGM 1.0 Second Release</title>
+        <description>&lt;p&gt;CGM (Computer Graphics Metafile) has been an ISO standard for vector and composite vector/raster picture definition since 1987. It has been a registered MIME type since 1995. CGM has a significant following in technicalillustration, electronic documentation, geophysical data visualization, amongst other application areas. WebCGM is a profile for the effective application of CGM in Web electronic documents. &lt;/p&gt;</description>
+        <shortname>REC-WebCGM</shortname>
+        <shortlink>https://www.w3.org/TR/REC-WebCGM/</shortlink>
+        <latestData>
+            <date>2019-12-05</date>
+            <status>Retired</status>
+            <editorsNumber>2</editorsNumber>
+            <deliverersNumber>1</deliverersNumber>
+        </latestData>
+    </specification>
+    <specification>
+        <title>Web Schematics on the World Wide Web</title>
+        <description>&lt;p&gt;This document presents an outline proposal for representing schematic graphics in web documents. Approaches taken by a variety of document production systems are reviewed and some key issues identified. An approach to a schematic graphics markup language is described. A number of open questions and stylistic issues are identified that can form the basis for discussion of the proposal in a workshop. &lt;/p&gt;</description>
+        <shortname>WebSchematics</shortname>
+        <shortlink>https://www.w3.org/TR/1998/NOTE-WebSchematics</shortlink>
+        <latestData>
+            <date>1998-03-31</date>
+            <status>Note</status>
+            <editorsNumber>2</editorsNumber>
+            <deliverersNumber>1</deliverersNumber>
+        </latestData>
+    </specification>
+    <specification>
+        <title>WebCGM 2.0</title>
+        <description>&lt;p&gt;Computer Graphics Metafile (CGM) is an ISO standard, defined by ISO/IEC 8632:1999, for the interchange of 2D vector and mixed vector/raster graphics. WebCGM is a profile of CGM, which adds Web linking and is optimized for Web applications in technical illustration, electronic documentation, geophysical data visualization, and similar fields. First published (1.0) in 1999 and followed by a second (errata) release in 2001, WebCGM unifies potentially diverse approaches to CGM utilization in Web document applications. It therefore represents a significant interoperability agreement amongst major users and implementers of the ISO CGM standard.&lt;/p&gt; &lt;p&gt;WebCGM 2.0 adds a DOM (API) specification for programmatic access to WebCGM objects, and a specification of an XML Companion File (XCF) architecture, for externalization of non-graphical metadata. WebCGM 2.0, in addition, builds upon and extends the graphical and intelligent content of WebCGM 1.0, delivering functionality that was forecast for WebCGM 1.0, but was postponed in order to get the standard and its implementations to users expeditiously.&lt;/p&gt; &lt;p&gt;The design criteria for WebCGM aim at a balance between graphical expressive power on the one hand, and simplicity and implementability on the other. A small but powerful set of standardized metadata elements supports the functionalities of hyperlinking and document navigation, picture structuring and layering, and enabling search and query of WebCGM picture content.&lt;/p&gt;</description>
+        <shortname>webcgm20</shortname>
+        <shortlink>https://www.w3.org/TR/webcgm20/</shortlink>
+        <latestData>
+            <date>2019-12-05</date>
+            <status>Retired</status>
+            <editorsNumber>3</editorsNumber>
+            <deliverersNumber>1</deliverersNumber>
+        </latestData>
+    </specification>
+    <specification>
+        <title>Scroll-driven Animations</title>
+        <description>&lt;p&gt;Defines an API and markup for creating animations that are tied to the scroll offset of a scroll container.&lt;/p&gt;</description>
+        <shortname>scroll-animations-1</shortname>
+        <shortlink>https://www.w3.org/TR/scroll-animations-1/</shortlink>
+        <latestData>
+            <date>2023-06-06</date>
+            <status>Working Draft</status>
+            <editorsNumber>6</editorsNumber>
+            <deliverersNumber>1</deliverersNumber>
+        </latestData>
+    </specification>
+</selectedSpecifications>

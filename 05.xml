@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<specWithEditors xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                 xsi:noNamespaceSchemaLocation="05.xsd">
+    <specification>
+        <title>Scalable Vector Graphics (SVG) Tiny 1.2 Specification</title>
+        <description>&lt;p&gt;This specification defines the features and syntax for Scalable Vector Graphics (SVG) Tiny, Version 1.2, a language for describing two-dimensional vector graphics in XML, combined with raster graphics and multimedia. Its goal is to provide the ability to create a whole range of graphical content, from static images to animations to interactive Web applications. SVG 1.2 Tiny is a profile of SVG intended for implementation on a range of devices, from cellphones and PDAs to laptop and desktop computers, and thus includes a subset of the features included in SVG 1.1 Full, along with new features to extend the capabilities of SVG. Further extensions are planned in the form of modules which will be compatible with SVG 1.2 Tiny, and which when combined with this specification, will match and exceed the capabilities of SVG 1.1 Full.&lt;/p&gt;</description>
+        <shortname>SVGTiny12</shortname>
+        <shortlink>https://www.w3.org/TR/SVGTiny12/</shortlink>
+        <latestData>
+            <date>2008-12-22</date>
+            <status>Recommendation</status>
+            <editorsNumber>17</editorsNumber>
+            <deliverersNumber>1</deliverersNumber>
+        </latestData>
+    </specification>
+    <editors>
+        <editor>
+            <country-code>US</country-code>
+            <city>Princeton</city>
+            <name>Berjon Robin</name>
+        </editor>
+        <editor>
+            <country-code/>
+            <city/>
+            <name>Dahlström Erik</name>
+        </editor>
+        <editor>
+            <country-code>CA</country-code>
+            <city>Kanata</city>
+            <name>Emmons Andrew</name>
+        </editor>
+        <editor>
+            <country-code>US</country-code>
+            <city>San Francisco</city>
+            <name>Hardy Vincent</name>
+        </editor>
+        <editor>
+            <country-code>US</country-code>
+            <city>Boston</city>
+            <name>Lilley Chris</name>
+        </editor>
+        <editor>
+            <country-code>AU</country-code>
+            <city>South Yarra</city>
+            <name>McCormack Cameron</name>
+        </editor>
+        <editor>
+            <country-code/>
+            <city/>
+            <name>Quint Antoine</name>
+        </editor>
+        <editor>
+            <country-code>US</country-code>
+            <city>Santa CLara</city>
+            <name>Ramani Nandini</name>
+        </editor>
+        <editor>
+            <country-code>US</country-code>
+            <city>Chapel Hill</city>
+            <name>Schepers Doug</name>
+        </editor>
+    </editors>
+</specWithEditors>

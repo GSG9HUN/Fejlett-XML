@@ -1,9 +1,18 @@
-
+(:A lekérdezés visszaadja azokat a szabványokat ahol legalább 3 szerkesztő és 2 szállító cég van.:)
 declare namespace output = "http://www.w3.org/2010/xslt-xquery-serialization";
 declare option output:method "html";
 declare option output:html-version "5.0";
 declare option output:indent "yes";
+
+declare function local:clean-html($html as xs:string) as xs:string {
+  let $text := fn:replace($html, '&lt;p&gt;|&lt;/p&gt;', '')
+  let $cleaned-text := fn:replace($text, '&lt;.*?&gt;', '')
+  return fn:normalize-space($cleaned-text)
+};
+
 let $json := json-doc("specifications.json")
+let $minEditorsCount := 3
+let $minDeliverersCount :=2
 let $html := <html>
     <head>
       <title>HTML Lap</title>
@@ -45,16 +54,19 @@ let $html := <html>
         </style>
     </head>
     <body>
-      <h1>Webes Szabványok</h1>
+      <h1>Szabványok ahol legalább három editor és két deliverer cég van.</h1>
       {
         for $item in $json?*
+        where count($item?latest?editors?*) ge $minEditorsCount and
+                    count($item?latest?deliverers?*) ge $minDeliverersCount
         return
           <div class="article">
-            <h2>{$item?title}</h2>
-            <p>{$item?description}</p>
+            <h2>{local:clean-html($item?title)}</h2>
+            <p>{local:clean-html($item?description)}</p>
             <p class="editor">
               Szerkesztő(k): {
                 for $editor in $item?latest?editors?*
+                
                 return
                 <ul>
                 <li>

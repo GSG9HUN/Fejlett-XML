@@ -6,11 +6,13 @@
     "latest": {
       "date": "2012-10-25",
       "informative": false,
+      "deliverers": [
+        {
+          "href": "https:\/\/api.w3.org\/groups\/wg\/mmi",
+          "title": "Multimodal Interaction Working Group"
+        }
+      ],
       "editors": null,
-      "deliveries": [ {
-        "href": "https:\/\/api.w3.org\/groups\/wg\/mmi",
-        "title": "Multimodal Interaction Working Group"
-      } ],
       "status": "Recommendation"
     },
     "shortlink": "https:\/\/www.w3.org\/TR\/mmi-arch\/"
@@ -22,8 +24,13 @@
     "latest": {
       "date": "2012-12-11",
       "informative": true,
+      "deliverers": [
+        {
+          "href": "https:\/\/api.w3.org\/groups\/wg\/owl",
+          "title": "OWL Working Group"
+        }
+      ],
       "editors": null,
-      "deliveries": [ { "href":"https:\/\/api.w3.org\/groups\/wg\/owl", "title":"OWL Working Group" } ],
       "status": "Recommendation"
     },
     "shortlink": "https:\/\/www.w3.org\/TR\/owl2-overview\/"
@@ -35,8 +42,13 @@
     "latest": {
       "date": "2013-03-21",
       "informative": false,
+      "deliverers": [
+        {
+          "href": "https:\/\/api.w3.org\/groups\/wg\/sparql",
+          "title": "SPARQL Working Group"
+        }
+      ],
       "editors": null,
-      "deliveries": [ { "href":"https:\/\/api.w3.org\/groups\/wg\/sparql", "title":"SPARQL Working Group" } ],
       "status": "Recommendation"
     },
     "shortlink": "https:\/\/www.w3.org\/TR\/sparql11-overview\/"
@@ -48,11 +60,13 @@
     "latest": {
       "date": "2015-10-01",
       "informative": false,
+      "deliverers": [
+        {
+          "href": "https:\/\/api.w3.org\/groups\/wg\/html",
+          "title": "HTML Media Extensions Working Group"
+        }
+      ],
       "editors": null,
-      "deliveries": [ {
-        "href": "https:\/\/api.w3.org\/groups\/wg\/html",
-        "title": "HTML Media Extensions Working Group"
-      } ],
       "status": "Retired"
     },
     "shortlink": "https:\/\/www.w3.org\/TR\/html-transcript-src\/"
@@ -64,11 +78,13 @@
     "latest": {
       "date": "2016-07-20",
       "informative": false,
+      "deliverers": [
+        {
+          "href": "https:\/\/api.w3.org\/groups\/wg\/webperf",
+          "title": "Web Performance Working Group"
+        }
+      ],
       "editors": null,
-      "deliveries": [ {
-        "href": "https:\/\/api.w3.org\/groups\/wg\/webperf",
-        "title": "Web Performance Working Group"
-      } ],
       "status": "Retired"
     },
     "shortlink": "https:\/\/www.w3.org\/TR\/frame-timing\/"
@@ -80,11 +96,13 @@
     "latest": {
       "date": "2016-09-09",
       "informative": false,
+      "deliverers": [
+        {
+          "href": "https:\/\/api.w3.org\/groups\/wg\/webappsec",
+          "title": "Web Application Security Working Group"
+        }
+      ],
       "editors": null,
-      "deliveries": [ {
-        "href": "https:\/\/api.w3.org\/groups\/wg\/webappsec",
-        "title": "Web Application Security Working Group"
-      } ],
       "status": "Working Draft"
     },
     "shortlink": "https:\/\/www.w3.org\/TR\/csp-embedded-enforcement\/"
@@ -96,11 +114,13 @@
     "latest": {
       "date": "2016-09-15",
       "informative": false,
+      "deliverers": [
+        {
+          "href": "https:\/\/api.w3.org\/groups\/wg\/html",
+          "title": "HTML Media Extensions Working Group"
+        }
+      ],
       "editors": null,
-      "deliveries": [ {
-        "href": "https:\/\/api.w3.org\/groups\/wg\/html",
-        "title": "HTML Media Extensions Working Group"
-      } ],
       "status": "Note"
     },
     "shortlink": "https:\/\/www.w3.org\/TR\/eme-initdata-registry\/"
@@ -112,11 +132,13 @@
     "latest": {
       "date": "2016-09-15",
       "informative": false,
+      "deliverers": [
+        {
+          "href": "https:\/\/api.w3.org\/groups\/wg\/html",
+          "title": "HTML Media Extensions Working Group"
+        }
+      ],
       "editors": null,
-      "deliveries": [ {
-        "href": "https:\/\/api.w3.org\/groups\/wg\/html",
-        "title": "HTML Media Extensions Working Group"
-      } ],
       "status": "Note"
     },
     "shortlink": "https:\/\/www.w3.org\/TR\/eme-initdata-keyids\/"
@@ -128,11 +150,13 @@
     "latest": {
       "date": "2016-09-15",
       "informative": false,
+      "deliverers": [
+        {
+          "href": "https:\/\/api.w3.org\/groups\/wg\/html",
+          "title": "HTML Media Extensions Working Group"
+        }
+      ],
       "editors": null,
-      "deliveries": [ {
-        "href": "https:\/\/api.w3.org\/groups\/wg\/html",
-        "title": "HTML Media Extensions Working Group"
-      } ],
       "status": "Note"
     },
     "shortlink": "https:\/\/www.w3.org\/TR\/eme-initdata-webm\/"
@@ -144,11 +168,13 @@
     "latest": {
       "date": "2016-09-15",
       "informative": false,
+      "deliverers": [
+        {
+          "href": "https:\/\/api.w3.org\/groups\/wg\/html",
+          "title": "HTML Media Extensions Working Group"
+        }
+      ],
       "editors": null,
-      "deliveries": [ {
-        "href": "https:\/\/api.w3.org\/groups\/wg\/html",
-        "title": "HTML Media Extensions Working Group"
-      } ],
       "status": "Note"
     },
     "shortlink": "https:\/\/www.w3.org\/TR\/eme-initdata-cenc\/"
@@ -160,11 +186,13 @@
     "latest": {
       "date": "2016-09-15",
       "informative": false,
+      "deliverers": [
+        {
+          "href": "https:\/\/api.w3.org\/groups\/wg\/html",
+          "title": "HTML Media Extensions Working Group"
+        }
+      ],
       "editors": null,
-      "deliveries": [ {
-        "href": "https:\/\/api.w3.org\/groups\/wg\/html",
-        "title": "HTML Media Extensions Working Group"
-      } ],
       "status": "Note"
     },
     "shortlink": "https:\/\/www.w3.org\/TR\/eme-stream-registry\/"
@@ -176,11 +204,13 @@
     "latest": {
       "date": "2016-09-15",
       "informative": false,
+      "deliverers": [
+        {
+          "href": "https:\/\/api.w3.org\/groups\/wg\/html",
+          "title": "HTML Media Extensions Working Group"
+        }
+      ],
       "editors": null,
-      "deliveries": [ {
-        "href": "https:\/\/api.w3.org\/groups\/wg\/html",
-        "title": "HTML Media Extensions Working Group"
-      } ],
       "status": "Note"
     },
     "shortlink": "https:\/\/www.w3.org\/TR\/eme-stream-webm\/"
@@ -192,11 +222,13 @@
     "latest": {
       "date": "2016-09-15",
       "informative": false,
+      "deliverers": [
+        {
+          "href": "https:\/\/api.w3.org\/groups\/wg\/html",
+          "title": "HTML Media Extensions Working Group"
+        }
+      ],
       "editors": null,
-      "deliveries": [ {
-        "href": "https:\/\/api.w3.org\/groups\/wg\/html",
-        "title": "HTML Media Extensions Working Group"
-      } ],
       "status": "Note"
     },
     "shortlink": "https:\/\/www.w3.org\/TR\/eme-stream-mp4\/"

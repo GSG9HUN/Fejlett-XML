@@ -1,0 +1,3574 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<countries xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:noNamespaceSchemaLocation="06.xsd">
+    <country code="Ismeretlen" editorCount="487">
+        <editor>
+            <name>Rachel Andrew</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Brendan Eich</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Bert Bos</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Misha Wolf</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Tim Bray</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Ashok Malhotra</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Arnaud Le Hors</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Brian LaMacchia</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Henrik Frystyk Nielsen</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Massimo Marchiori</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Dan Brickley</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Yuichi Koike</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Ian Hickson</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>David Carlisle</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Thierry Michel</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Jim Larson</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Gopal Kakivaya</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Yves Lafon</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Gary Kacmarcik</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Susan Malaika</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Erik Dahlström</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Jun Fujisawa</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Sean Hayes</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Tab Atkins Jr.</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>David Baron</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>John Daggett</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Myles Maxfield</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Xidorn Quan</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Frank Scahill</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Anish Karmarkar</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Nilo Mitra</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>rezaur rahman</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Martin PreslerMarshall</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Highland Mary Mountain</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Jacek Kopecky</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Frank van Harmelen</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Christopher Welty</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Jeremy Carroll</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Patrick Curran</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Hugo Haas</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Mark Birbeck</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Sai Prasad</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Max Froumentin</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Jérôme Euzenat</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Tom Lane</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Jeanne F Spellman</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Dave Cramer</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Michael Johnston</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Janina Sajka</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Jason White</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Matthias Schunter</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Eric Prud'hommeaux</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Natasha Noy</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Pierre-Anthony Lemieux</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Alex Lee</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Antti Koivisto</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Nabil Layaida</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Antoine Quint</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Shadi Abou-Zahra</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Andrew Kirkpatrick</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Joshue O'Connor</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Felix Sasaki</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Jo Rabin</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Lee Feigenbaum</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Torbjörn Lager</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>José Kahan</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Bruce Miller</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Philip Tetlow</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Anupam Snigdha</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Greg White</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Jacco van Ossenbruggen</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>John Schneider</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Takuki Kamiya</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Daniel Peintner</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Daniel Vogelheim</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Anne van Kesteren</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Maciej Stachowiak</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Jungkee Song</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Dave Reynolds</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Daniel Rubin</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Virginia Smith</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>M. Scott Marshall</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Michael[tm] Smith</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Greg Lowney</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Kimberly Patch</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Simon Pieters</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Erika Doyle Navara</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Seiichi Kato</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Tatsuo KOBAYASHI</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Toshi Kobayashi</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Atsushi Shimono</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Bryan Sullivan</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Matthew Horridge</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Christine Golbreich</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Pascal Hitzler</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Zhe Wu</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Antonis Kukurikos</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Xu Yang</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Richard Schwerdtfeger</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Sandro Hawke</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Dzung Tran</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Paul Resnick</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Marijn Kruisselbrink</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Dean Jackson</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Rossen Atanassov</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Wonsuk Lee</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Tobias Bürger</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Joakim Söderberg</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Jay Munro</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Jonas Sicking</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Jeremy Orlow</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Mark Miller</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Aharon Lanin</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Anssi Kostiainen</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Zhiheng Wang</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Alexandre Bertails</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Benjamin Adrian</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Lachlan Hunt</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Matt Brubeck</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Brandon Sterne</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>James Robinson</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Robert O'Callahan</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Mounir Lamouri</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Raphael Kubo da Costa</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Matt Rakow</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Oriol Brufau</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Emilio Cobos Álvarez</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Cynthia Shelly</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Jason Kiss</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Alexander Surkov</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>John Gregg</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Reilly Grant</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Arvind Jain</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Nicolas Pena Moreno</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Timothy Lebo</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Markus Lanthaler</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Nick Doty</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Sean Harvey</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>B Helena RODRIGUEZ</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Mike West</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Bogdan Brinza</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Dirk Schulze</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>David Storey</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Markel Vigo</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Giorgio Brajnik</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Rijubrata Bhaumik</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Dimitri Glazkov</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Hayato Ito</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Steve Agoston</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Matthew Reynolds</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Jirka Kosek</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Mark Sadecki</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Jan-Ivar Bruaroey</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Henrik Boström</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>youenn fablet</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Vincent Scheib</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Kai Eckert</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Yolanda Gil</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Simon Miles</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Hook Hua</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Stephan Zednik</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Martin Thomson</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Kinuko Yasuda</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Fabio Paternò</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Spano Lucio Davide</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Monica Martin</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Sam Ruby</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>John Erickson</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Peter Korn</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Greg Billock</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Paul Kinlan</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Tom De Nies</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Sam Coppens</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Marios Meimaris</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Brad Hill</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Eduardo Fullea</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Christophe Dumez</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>David Dorwin</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Adrian Bateman</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Hajime Morita</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Yoav Weiss</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Mathew Marquis</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Steve Battle</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Matthew Wolenetz</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Aaron Colwell</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Miguel Casas-sanchez</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Zoltan Kis</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>David Newton</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>MING JIN</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Takeshi Yoshino</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>James McKinney</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Mahesh Kulkarni</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Robert Flack</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Stephen McGruer</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Joanmarie Diggs</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Tobin Titus</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>James Simonsen</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Ilya Grigorik</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Ricardo Tesoriero</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Vivian Genaro Motti</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Jérémie Melchior</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Daniel Murphy</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Yves Raimond</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Jaroslav Pullmann</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Luc Yriarte</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Samuel Ortiz</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Don Coleman</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Douglas Creager</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Ian Clelland</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Frederik Braun</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Francois Marier</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Joel Weinberger</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Davide Ceolin</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Fernando Jiménez Moreno</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Chris Harrelson</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Roger Menday</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Emily Stark</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Carlos IbarraLopez</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Jochen Eisinger</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Cody Burleson</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Ryosuke Niwa</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>James Snell</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Benjamin Young</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Bill Kasdorf</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Lisa Seeman-Horwitz</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Justin Uberti</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Guido Urdaneta</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Cyril Concolato</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Charles Vazac</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Dominik Röttsches</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Emircan Uysaler</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Caroline Burle</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Newton Calegari</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Ian Pouncey</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Scott O'Hara</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Mike Taylor</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Shane Stephens</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Jihye Hong</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Patrick Lauke</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Simon Steyskal</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Karen Coyle</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>JaEun Jemma Ku</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>James Nurthen</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Kazuyuki Ashimura</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Shinjiro Urata</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Mike Aro</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Adam Crofts</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Kevin Gavigan</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Justin(JongSeon) Park</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Kevron Rees</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Sumit Purohit</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Tzviya Siegman</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Alejandro Llaves</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Yijun Chen</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Eric Q LIU</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Zhengyu Qian</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Michael Johnston</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Ross McIlroy</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Holger Knublauch</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Dimitris Kontokostas</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Rick Waldron</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Ben De Meester</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Deian Stefan</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Peter Snyder</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Amy Guy</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Linda van den Brink</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Timo Homburg</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Antonio Sartori</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Christopher Webber</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Jessica Tallon</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Aaron Parecki</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Shawn Lawton Henry (TAdER)</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Domenic Denicola</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Zach Koch</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Roy McElmurry</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Deborah Kaplan</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Kerry Taylor</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Ian Kilpatrick</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Greg Whitworth</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Naina Raisinghani</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Navid Zolghadr</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Michael Steidl</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Benedict Whittam Smith</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Sarven Capadisli</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Ali Alabbas</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Daniel Mekonnen</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Franco Alvarado</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Joshua Pyle</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Steve Morris</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Sung Hei Kim</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Alexander Futász</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Julien Genestoux</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Mustaq Ahmed</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Rob Atkinson</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Dmitry Brizhinev</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Sam Toyer</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Alastair Campbell</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Yongsheng Zhu</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Maureen Kraft</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Jon Blower</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Maik Riechert</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Alexander Shalamov</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Jinho Bang</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Ruoxi Ran</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Pano Maria</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Colin Meerveld</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Alexandra Mikityuk</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Grant Noble</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Dave Longley</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Brent Zundel</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Kyle Den Hartog</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Stefan Zager</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Traian Captan</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Dapeng(Max) Liu</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Patricia Aas</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Shwetank Dixit</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Terence Eden</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Bruce Lawson</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Andreas Rossberg</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Alejandra Gonzalez Beltran</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Peter Winstanley</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Harald Alvestrand</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Carolyn MacLeod</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Valerie Young</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Shubhie Panicker</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Morgan McLean</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Bogdan Drutu</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Nik Molnar</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Yuri Shkuro</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Fergal Daly</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Rachael Bradley Montgomery</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Lars G. Svensson</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Majid Valipour</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Steve Noble</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Paul Grenier</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Christine Loew</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Dan Zhou</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Martin Alvarez-Espinar</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Zitao Wang</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Wanming Lin</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Kenny Yuan</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Canfeng Chen</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Chen Yinli</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>An Qi (Angel) Li</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Vladimir Levin</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Markus Sabadello</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Phil Archer</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Kim Duffy</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Will Cassella</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Francois Beaufort</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Thomas Steimel</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Aleks Totic</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Charles Adams</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Una Kravets</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Adam Argyle</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Daniel Libby</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Dee Dyer</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Charles Hall</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Ruben Taelman</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Rayan Kanso</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Jen Simmons</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Miriam Suzanne</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Shawn Lauriat</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>. Ms2ger</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Gabe Cohen</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Daniel Dyla</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Chris Blume</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Olaf Hartig</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Timothée Haudebourg</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Thomas Pellissier Tanon</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Murray Maloney</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>James Clark</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Eve Maler</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Judy Brewer</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Sebastian Schnitzenbaumer</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Sharon Adler</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Anders Berglund</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Alex Miłowski</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Ron Daniel</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>chris cross</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Michael Sperberg-McQueen</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Sean Palmer</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Scott Boag</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Sharad Garg</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Shivaram Mysore</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Juan Carlos Cruellas</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Asir Vedamuthu</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Nickolas Kavantzas</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Yunhao Zhang</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Cédric Kiss</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Jonathan Calladine</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>George Cowe</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Pat Case</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>John Snelson</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Doug Davis</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Jonathan Kew</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Tal Leming</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Paul Adenot</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Florent Castelli</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Joe Berkovitz</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Simon Stewart</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>David Burns</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Norifumi Kikkawa</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Jussi Kalliokoski</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>L Klotz</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Josh Spiegel</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Raph Levien</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Dirk Balfanz</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Alexei Czeskis</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Jeff Hodges</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Akshay Kumar</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Huakai Liao</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Emil Lundberg</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Matthias Kovatsch</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Ryuichi Matsukura</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Michael Lagally</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Toru Kawaguchi</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Victor Charpenay</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Cristiano Aguzzi</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Johannes Hund</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Kazuaki Nimura</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Elena Reshetova</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Brandon Jones</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Manish Goregaokar</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Chris Needham</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Wendy Reid</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Akshat Joshi</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Neha Gupta</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Adam Shepherd</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Charles Vardeman</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>J. Kalyana Sundaram</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Sanket Joshi</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Megan Gardner</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Andrea Cimmino</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Farshid Tavakolizadeh</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Ben Francis</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Tomoaki Mizushima</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Diego Gonzalez-Zuniga</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>JOSEPH ABHAYARATNA</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Ed Parsons</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Gregorio Pellegrino</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Eugene Zemtsov</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Nidhi Jaju</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Victor Vasiliev</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Yongjing ZHANG</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Kai Ninomiya</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Jim Blandy</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Alan Baker</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Mehmet Oguz Derin</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>David Neto</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Raymond Toy</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Haoyang Xu</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Chai Chaoweeraprasit</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Cristina Mussinelli</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Frédéric Wang</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Daniel Hardman</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Michael Prorock</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Piotr Bialecki</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Garret Rieger</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Steve Noble</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>alex keng</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Benjamin Klotz</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Daniel Wilms</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Bingqing Zhou</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Bin Guo</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Qian Liu</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>shuo wang</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Alastor Wu</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Jeffrey Yasskin</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Tim Dresser</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Mike Wasserman</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>David Fazio</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Krzysztof Kotowicz</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Ricky Mondello</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Jake Archibald</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Khushal Sagar</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Botond Ballo</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Olga Gerchikov</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Greg Bernstein</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Dmitri Zagidulin</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Dan Yamamoto</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Kagami Rosylight</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Martin Reed</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Mahmoud Alkhraishi</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Andres Uribe</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Dörthe Arndt</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Rob Smith</name>
+            <city>Ismeretlen</city>
+        </editor>
+    </country>
+    <country code="US" editorCount="166">
+        <editor>
+            <name>Yoshihisa Gonno</name>
+            <city>San Jose</city>
+        </editor>
+        <editor>
+            <name>Elika Etemad</name>
+            <city>New York City</city>
+        </editor>
+        <editor>
+            <name>Patrick D F Ion</name>
+            <city>Ann Arbor</city>
+        </editor>
+        <editor>
+            <name>Chris Lilley</name>
+            <city>Boston</city>
+        </editor>
+        <editor>
+            <name>Chris Wilson</name>
+            <city>Seattle</city>
+        </editor>
+        <editor>
+            <name>Joseph Reagle</name>
+            <city>CAMBRIDGE</city>
+        </editor>
+        <editor>
+            <name>Jonathan Robie</name>
+            <city>Durham</city>
+        </editor>
+        <editor>
+            <name>Ian Jacobs</name>
+            <city>Chicago</city>
+        </editor>
+        <editor>
+            <name>Wendy Chisholm</name>
+            <city>Redmond</city>
+        </editor>
+        <editor>
+            <name>Gregg Vanderheiden</name>
+            <city>College Park</city>
+        </editor>
+        <editor>
+            <name>Jon Gunderson</name>
+            <city>Champaign</city>
+        </editor>
+        <editor>
+            <name>Eric Hansen</name>
+            <city>Princeton</city>
+        </editor>
+        <editor>
+            <name>Tex Texin</name>
+            <city>Mountain View</city>
+        </editor>
+        <editor>
+            <name>Daniel Schutzer</name>
+            <city>scarsdale</city>
+        </editor>
+        <editor>
+            <name>John Cowan</name>
+            <city>New York</city>
+        </editor>
+        <editor>
+            <name>Tantek Çelik</name>
+            <city>Stanford</city>
+        </editor>
+        <editor>
+            <name>Peter Linss</name>
+            <city>San Diego</city>
+        </editor>
+        <editor>
+            <name>T.V. Raman</name>
+            <city>Mountain View</city>
+        </editor>
+        <editor>
+            <name>Deborah Dahl</name>
+            <city>Plymouth Meeting</city>
+        </editor>
+        <editor>
+            <name>Shane McCarron</name>
+            <city>St Paul</city>
+        </editor>
+        <editor>
+            <name>Philippe Le Hegaret</name>
+            <city>Cambridge</city>
+        </editor>
+        <editor>
+            <name>Noah Mendelsohn</name>
+            <city>Lexington</city>
+        </editor>
+        <editor>
+            <name>Daniel Burnett</name>
+            <city>Lilburn</city>
+        </editor>
+        <editor>
+            <name>Johnny Stenback</name>
+            <city>Mountain View</city>
+        </editor>
+        <editor>
+            <name>Travis Leithead</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Doug Schepers</name>
+            <city>Chapel Hill</city>
+        </editor>
+        <editor>
+            <name>Michael Cooper</name>
+            <city>Cambridge</city>
+        </editor>
+        <editor>
+            <name>Loretta Guarino Reid</name>
+            <city>Mountain View</city>
+        </editor>
+        <editor>
+            <name>Glenn Adams</name>
+            <city>Boulder</city>
+        </editor>
+        <editor>
+            <name>Brad Kemper</name>
+            <city>Foster City</city>
+        </editor>
+        <editor>
+            <name>Jerry Carter</name>
+            <city>Burlington</city>
+        </editor>
+        <editor>
+            <name>Lofton Henderson</name>
+            <city>Boulder</city>
+        </editor>
+        <editor>
+            <name>Addison Phillips</name>
+            <city>Dillon Beach</city>
+        </editor>
+        <editor>
+            <name>Deborah McGuinness</name>
+            <city>Troy</city>
+        </editor>
+        <editor>
+            <name>Mike Dean</name>
+            <city>Ann Arbor</city>
+        </editor>
+        <editor>
+            <name>Peter Patel-Schneider</name>
+            <city>Westfield</city>
+        </editor>
+        <editor>
+            <name>Patrick Hayes</name>
+            <city>Pensacola</city>
+        </editor>
+        <editor>
+            <name>Jeff Mischkinsky</name>
+            <city>Davis</city>
+        </editor>
+        <editor>
+            <name>Micah Dubinko</name>
+            <city>Atlanta</city>
+        </editor>
+        <editor>
+            <name>Tom Underhill</name>
+            <city>Redmond</city>
+        </editor>
+        <editor>
+            <name>Dan Connolly</name>
+            <city>Overland Park</city>
+        </editor>
+        <editor>
+            <name>Steve Speicher</name>
+            <city>Durham</city>
+        </editor>
+        <editor>
+            <name>Yves Savourel</name>
+            <city>Boulder</city>
+        </editor>
+        <editor>
+            <name>James Barnett</name>
+            <city>Auburndale</city>
+        </editor>
+        <editor>
+            <name>Thomas Roessler</name>
+            <city>Santa Clara</city>
+        </editor>
+        <editor>
+            <name>Raj Tumuluri</name>
+            <city>Somerset</city>
+        </editor>
+        <editor>
+            <name>Robin Berjon</name>
+            <city>Princeton</city>
+        </editor>
+        <editor>
+            <name>Don Brutzman</name>
+            <city>Monterey</city>
+        </editor>
+        <editor>
+            <name>Leora Morgenstern</name>
+            <city>Hawthorne</city>
+        </editor>
+        <editor>
+            <name>Jon Phipps</name>
+            <city>Jacksonville</city>
+        </editor>
+        <editor>
+            <name>Arthur Barstow</name>
+            <city>North Billerica</city>
+        </editor>
+        <editor>
+            <name>Chimezie Ogbuji</name>
+            <city>Cleveland</city>
+        </editor>
+        <editor>
+            <name>Jim Allan</name>
+            <city>Austin</city>
+        </editor>
+        <editor>
+            <name>Michael Kifer</name>
+            <city>Stony Brook</city>
+        </editor>
+        <editor>
+            <name>Christopher Ferris</name>
+            <city>Armonk</city>
+        </editor>
+        <editor>
+            <name>Vincent Hardy</name>
+            <city>San Francisco</city>
+        </editor>
+        <editor>
+            <name>Nandini Ramani</name>
+            <city>Santa CLara</city>
+        </editor>
+        <editor>
+            <name>Theresa O'Connor</name>
+            <city>San Francisco</city>
+        </editor>
+        <editor>
+            <name>Nathaniel McCully</name>
+            <city>Seattle</city>
+        </editor>
+        <editor>
+            <name>Ed Summers</name>
+            <city>Silver Spring</city>
+        </editor>
+        <editor>
+            <name>Eric Johnson</name>
+            <city>Palo Alto</city>
+        </editor>
+        <editor>
+            <name>Jeff Hoepfinger</name>
+            <city>Superior</city>
+        </editor>
+        <editor>
+            <name>James Craig</name>
+            <city>Cupertino</city>
+        </editor>
+        <editor>
+            <name>Lisa Pappas</name>
+            <city>Cary</city>
+        </editor>
+        <editor>
+            <name>Paolo Ciccarese</name>
+            <city>Charlestown</city>
+        </editor>
+        <editor>
+            <name>David Singer</name>
+            <city>Cupertino</city>
+        </editor>
+        <editor>
+            <name>Lea Verou</name>
+            <city>Cambridge</city>
+        </editor>
+        <editor>
+            <name>Daniel Bennett</name>
+            <city>Washington</city>
+        </editor>
+        <editor>
+            <name>Gregory Williams</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Paula Gearon</name>
+            <city>Spotsylvania</city>
+        </editor>
+        <editor>
+            <name>Frederick Hirsch</name>
+            <city>Melrose</city>
+        </editor>
+        <editor>
+            <name>Rik Cabanier</name>
+            <city>Seattle</city>
+        </editor>
+        <editor>
+            <name>Jatinder Mann</name>
+            <city>Redmond</city>
+        </editor>
+        <editor>
+            <name>Eliot Graff</name>
+            <city>Redmond</city>
+        </editor>
+        <editor>
+            <name>Joshua Bell</name>
+            <city>San Francisco</city>
+        </editor>
+        <editor>
+            <name>Souripriya Das</name>
+            <city>Nashua</city>
+        </editor>
+        <editor>
+            <name>Manu Sporny</name>
+            <city>Blacksburg</city>
+        </editor>
+        <editor>
+            <name>Ben Adida</name>
+            <city>Mountain View</city>
+        </editor>
+        <editor>
+            <name>Alan Stearns</name>
+            <city>Seattle</city>
+        </editor>
+        <editor>
+            <name>Satya Sahoo</name>
+            <city>Cleveland</city>
+        </editor>
+        <editor>
+            <name>Roy Fielding</name>
+            <city>Tustin</city>
+        </editor>
+        <editor>
+            <name>Gavin Carothers</name>
+            <city>Sebastopol</city>
+        </editor>
+        <editor>
+            <name>Gregg Kellogg</name>
+            <city>San Rafael</city>
+        </editor>
+        <editor>
+            <name>Daniel Veditz</name>
+            <city>Santa Cruz</city>
+        </editor>
+        <editor>
+            <name>Simon Fraser</name>
+            <city>Cupertino</city>
+        </editor>
+        <editor>
+            <name>Arron Eicholz</name>
+            <city>Enumclaw</city>
+        </editor>
+        <editor>
+            <name>Shaun McCance</name>
+            <city>Cincinnati</city>
+        </editor>
+        <editor>
+            <name>John Arwe</name>
+            <city>Poughkeepsie</city>
+        </editor>
+        <editor>
+            <name>Bernard Aboba</name>
+            <city>Bellevue</city>
+        </editor>
+        <editor>
+            <name>Jacob Rossi</name>
+            <city>Seattle</city>
+        </editor>
+        <editor>
+            <name>Curt Tilmes</name>
+            <city>Greenbelt</city>
+        </editor>
+        <editor>
+            <name>Larry Masinter</name>
+            <city>Los Altos</city>
+        </editor>
+        <editor>
+            <name>James Hawkins</name>
+            <city>Hawthorne</city>
+        </editor>
+        <editor>
+            <name>Jerry Smith</name>
+            <city>Redmond</city>
+        </editor>
+        <editor>
+            <name>Mark Watson</name>
+            <city>Los Gatos</city>
+        </editor>
+        <editor>
+            <name>Feras Moussa</name>
+            <city>Redmond</city>
+        </editor>
+        <editor>
+            <name>Michael Pendleton</name>
+            <city>Washington</city>
+        </editor>
+        <editor>
+            <name>Shane McCarron</name>
+            <city>St. Paul</city>
+        </editor>
+        <editor>
+            <name>Aaron Gustafson</name>
+            <city>Redmond</city>
+        </editor>
+        <editor>
+            <name>Robert Sanderson</name>
+            <city>Los Angeles</city>
+        </editor>
+        <editor>
+            <name>Devdatta Akhawe</name>
+            <city>San Francisco</city>
+        </editor>
+        <editor>
+            <name>Eric Stephan</name>
+            <city>Richland</city>
+        </editor>
+        <editor>
+            <name>Bryan Garaventa</name>
+            <city>Pacifica</city>
+        </editor>
+        <editor>
+            <name>Mark Foltz</name>
+            <city>Seattle</city>
+        </editor>
+        <editor>
+            <name>Kathleen Wahlbin</name>
+            <city>Clearwater</city>
+        </editor>
+        <editor>
+            <name>Matthew King</name>
+            <city>Bend</city>
+        </editor>
+        <editor>
+            <name>Nagesh Kharidi</name>
+            <city>Somerset</city>
+        </editor>
+        <editor>
+            <name>Powell Kinney</name>
+            <city>Dallas</city>
+        </editor>
+        <editor>
+            <name>Leonard Rosenthol</name>
+            <city>Margate City</city>
+        </editor>
+        <editor>
+            <name>Rouslan Solomakhin</name>
+            <city>Reston</city>
+        </editor>
+        <editor>
+            <name>Charles LaPierre</name>
+            <city>Palo Alto</city>
+        </editor>
+        <editor>
+            <name>Mike Dolan</name>
+            <city>Del Mar</city>
+        </editor>
+        <editor>
+            <name>Krzysztof Janowicz</name>
+            <city>Santa Barbara</city>
+        </editor>
+        <editor>
+            <name>Stuart Myles</name>
+            <city>New York</city>
+        </editor>
+        <editor>
+            <name>Ted Guild</name>
+            <city>Cumberland</city>
+        </editor>
+        <editor>
+            <name>François Remy</name>
+            <city>Bellevue</city>
+        </editor>
+        <editor>
+            <name>Timothy Cole</name>
+            <city>Urbana</city>
+        </editor>
+        <editor>
+            <name>Mary Jo Mueller</name>
+            <city>Satellite Beach</city>
+        </editor>
+        <editor>
+            <name>Dean Allemang</name>
+            <city>Oakland</city>
+        </editor>
+        <editor>
+            <name>Joe Andrieu</name>
+            <city>Ventura</city>
+        </editor>
+        <editor>
+            <name>Matt Stone</name>
+            <city>Boulder</city>
+        </editor>
+        <editor>
+            <name>Ted Thibodeau Jr</name>
+            <city>Springfield</city>
+        </editor>
+        <editor>
+            <name>Ixchel Faniel</name>
+            <city>Dublin</city>
+        </editor>
+        <editor>
+            <name>Sergey Kanzhelev</name>
+            <city>Redmond</city>
+        </editor>
+        <editor>
+            <name>Markku Hakkinen</name>
+            <city>Princeton</city>
+        </editor>
+        <editor>
+            <name>Sam Kanta</name>
+            <city>West Bend</city>
+        </editor>
+        <editor>
+            <name>Drummond Reed</name>
+            <city>Seattle</city>
+        </editor>
+        <editor>
+            <name>Adrian Gropper</name>
+            <city>Watertown</city>
+        </editor>
+        <editor>
+            <name>Matthew Wolenetz</name>
+            <city>Snoqualmie</city>
+        </editor>
+        <editor>
+            <name>Michael Jones</name>
+            <city>Redmond</city>
+        </editor>
+        <editor>
+            <name>Chris Seeger</name>
+            <city>Englewood Cliffs</city>
+        </editor>
+        <editor>
+            <name>Chris Loiselle</name>
+            <city>Reading</city>
+        </editor>
+        <editor>
+            <name>Tim Berners-Lee</name>
+            <city>Cambridge</city>
+        </editor>
+        <editor>
+            <name>Paul Grosso</name>
+            <city>Austin</city>
+        </editor>
+        <editor>
+            <name>Donald Eastlake</name>
+            <city>Milford</city>
+        </editor>
+        <editor>
+            <name>Jeffrey Caruso</name>
+            <city>Marlborough</city>
+        </editor>
+        <editor>
+            <name>Eduardo Gutentag</name>
+            <city>Oakland</city>
+        </editor>
+        <editor>
+            <name>Steve Zilles</name>
+            <city>Los Gatos</city>
+        </editor>
+        <editor>
+            <name>Priscilla Walmsley</name>
+            <city>Traverse City</city>
+        </editor>
+        <editor>
+            <name>David Ezell</name>
+            <city>Tampa</city>
+        </editor>
+        <editor>
+            <name>Phillip Hallam-Baker</name>
+            <city>Medford</city>
+        </editor>
+        <editor>
+            <name>K Karun</name>
+            <city>Redwood City</city>
+        </editor>
+        <editor>
+            <name>Jim Melton</name>
+            <city>Sandy</city>
+        </editor>
+        <editor>
+            <name>David Booth</name>
+            <city>Somerville</city>
+        </editor>
+        <editor>
+            <name>Daniel Austin</name>
+            <city>Cupertino</city>
+        </editor>
+        <editor>
+            <name>Mary Holstege</name>
+            <city>San Carlos</city>
+        </editor>
+        <editor>
+            <name>David Burdett</name>
+            <city>Palo Alto</city>
+        </editor>
+        <editor>
+            <name>Oliver Goldman</name>
+            <city>Seattle</city>
+        </editor>
+        <editor>
+            <name>Prasad Yendluri</name>
+            <city>San Jose</city>
+        </editor>
+        <editor>
+            <name>Sean Mullan</name>
+            <city>Burlington</city>
+        </editor>
+        <editor>
+            <name>Anil Saldhana</name>
+            <city>OAK PARK</city>
+        </editor>
+        <editor>
+            <name>Wu Chou</name>
+            <city>Basking Ridge</city>
+        </editor>
+        <editor>
+            <name>Kelvin Yiu</name>
+            <city>Redmond</city>
+        </editor>
+        <editor>
+            <name>Scott Cantor</name>
+            <city>Columbus</city>
+        </editor>
+        <editor>
+            <name>Hongchan Choi</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Arun Ranganathan</name>
+            <city>Brooklyn</city>
+        </editor>
+        <editor>
+            <name>Ora Lassila</name>
+            <city>Hollis</city>
+        </editor>
+        <editor>
+            <name>Vladimir Levantovsky</name>
+            <city>North Andover</city>
+        </editor>
+        <editor>
+            <name>Varun Singh</name>
+            <city>Miami</city>
+        </editor>
+        <editor>
+            <name>J.C. Jones</name>
+            <city>Tempe</city>
+        </editor>
+        <editor>
+            <name>Rolf Lindemann</name>
+            <city>Palo Alto</city>
+        </editor>
+        <editor>
+            <name>Benjamin Roberts</name>
+            <city>Attleboro</city>
+        </editor>
+        <editor>
+            <name>Rik Cabanier</name>
+            <city>Seattle</city>
+        </editor>
+        <editor>
+            <name>Shervin Afshar</name>
+            <city>San Francisco</city>
+        </editor>
+        <editor>
+            <name>Orie Steele</name>
+            <city>AUSTIN</city>
+        </editor>
+        <editor>
+            <name>George Kerscher</name>
+            <city>Missoula</city>
+        </editor>
+    </country>
+    <country code="GB" editorCount="47">
+        <editor>
+            <name>Dave Raggett</name>
+            <city>Bradford on Avon</city>
+        </editor>
+        <editor>
+            <name>Henry Thompson</name>
+            <city>Edinburgh</city>
+        </editor>
+        <editor>
+            <name>Richard Ishida</name>
+            <city>n/a</city>
+        </editor>
+        <editor>
+            <name>Jonathan Watt</name>
+            <city>Norwich</city>
+        </editor>
+        <editor>
+            <name>Martin Gudgin</name>
+            <city>Sale</city>
+        </editor>
+        <editor>
+            <name>Ian Horrocks</name>
+            <city>Oxford</city>
+        </editor>
+        <editor>
+            <name>Graham Klyne</name>
+            <city>Oxford</city>
+        </editor>
+        <editor>
+            <name>Olivier Thereaux</name>
+            <city>London</city>
+        </editor>
+        <editor>
+            <name>Léonie Watson</name>
+            <city>London</city>
+        </editor>
+        <editor>
+            <name>Simon Sapin</name>
+            <city>London</city>
+        </editor>
+        <editor>
+            <name>Sean Bechhofer</name>
+            <city>Manchester</city>
+        </editor>
+        <editor>
+            <name>Norman Walsh</name>
+            <city>Swansea</city>
+        </editor>
+        <editor>
+            <name>Andy Seaborne</name>
+            <city>Bristol</city>
+        </editor>
+        <editor>
+            <name>Daniel Appelquist</name>
+            <city>London</city>
+        </editor>
+        <editor>
+            <name>Phil Archer</name>
+            <city>Ipswich</city>
+        </editor>
+        <editor>
+            <name>Chris Little</name>
+            <city>Exeter</city>
+        </editor>
+        <editor>
+            <name>Steve Faulkner</name>
+            <city>kingston upon thames</city>
+        </editor>
+        <editor>
+            <name>Boris Motik</name>
+            <city>Oxford</city>
+        </editor>
+        <editor>
+            <name>Bijan Parsia</name>
+            <city>Manchester</city>
+        </editor>
+        <editor>
+            <name>Bernardo Cuenca Grau</name>
+            <city>Oxford</city>
+        </editor>
+        <editor>
+            <name>Mark Phillips</name>
+            <city>Winchester</city>
+        </editor>
+        <editor>
+            <name>Andy Heath</name>
+            <city>Sheffield</city>
+        </editor>
+        <editor>
+            <name>Jun Zhao</name>
+            <city>Lancaster</city>
+        </editor>
+        <editor>
+            <name>Luc Moreau</name>
+            <city>Southampton</city>
+        </editor>
+        <editor>
+            <name>Nathan Rixham</name>
+            <city>Kirkcaldy</city>
+        </editor>
+        <editor>
+            <name>James Cheney</name>
+            <city>Edinburgh</city>
+        </editor>
+        <editor>
+            <name>Jeni Tennison</name>
+            <city>Epsom</city>
+        </editor>
+        <editor>
+            <name>Peter Beverloo</name>
+            <city>London</city>
+        </editor>
+        <editor>
+            <name>Trung Dong Huynh</name>
+            <city>Southampton</city>
+        </editor>
+        <editor>
+            <name>Jeremy Tandy</name>
+            <city>Exeter</city>
+        </editor>
+        <editor>
+            <name>Ernesto Jimenez</name>
+            <city>London</city>
+        </editor>
+        <editor>
+            <name>Cameron Jones</name>
+            <city>Muswell Hill</city>
+        </editor>
+        <editor>
+            <name>Natasha Rooney</name>
+            <city>London</city>
+        </editor>
+        <editor>
+            <name>Madi Solomon</name>
+            <city>London</city>
+        </editor>
+        <editor>
+            <name>Alasdair Gray</name>
+            <city>Edinburgh</city>
+        </editor>
+        <editor>
+            <name>Payam Barnaghi</name>
+            <city>Guildford</city>
+        </editor>
+        <editor>
+            <name>Nigel Megitt</name>
+            <city>London</city>
+        </editor>
+        <editor>
+            <name>Bill Roberts</name>
+            <city>Stirling</city>
+        </editor>
+        <editor>
+            <name>David Browning</name>
+            <city>Milton Keynes</city>
+        </editor>
+        <editor>
+            <name>Steve Lee</name>
+            <city>Exeter</city>
+        </editor>
+        <editor>
+            <name>Phil Day</name>
+            <city>Dundee</city>
+        </editor>
+        <editor>
+            <name>Michael Kay</name>
+            <city>Reading</city>
+        </editor>
+        <editor>
+            <name>Paul Downey</name>
+            <city>Berkhamsted</city>
+        </editor>
+        <editor>
+            <name>Dave Pawson</name>
+            <city>Orton Southgate</city>
+        </editor>
+        <editor>
+            <name>Andrew Coleman</name>
+            <city>Winchester</city>
+        </editor>
+        <editor>
+            <name>Hadley Beeman</name>
+            <city>London</city>
+        </editor>
+        <editor>
+            <name>Sebastian Crane</name>
+            <city>Ismeretlen</city>
+        </editor>
+    </country>
+    <country code="FR" editorCount="22">
+        <editor>
+            <name>Philipp Hoschka</name>
+            <city>Sophia-Antipolis</city>
+        </editor>
+        <editor>
+            <name>Daniel Glazman</name>
+            <city>Saint-Germain en Laye</city>
+        </editor>
+        <editor>
+            <name>Fabien Gandon</name>
+            <city>SOPHIA-ANTIPOLIS</city>
+        </editor>
+        <editor>
+            <name>Jean-Jacques Moreau</name>
+            <city>Rennes</city>
+        </editor>
+        <editor>
+            <name>Rigo Wenning</name>
+            <city>Sophia Antipolis</city>
+        </editor>
+        <editor>
+            <name>Dominique Hazaël-Massieux</name>
+            <city>Biot</city>
+        </editor>
+        <editor>
+            <name>Jean-Claude Dufourd</name>
+            <city>Palaiseau</city>
+        </editor>
+        <editor>
+            <name>Harry Halpin</name>
+            <city>Paris</city>
+        </editor>
+        <editor>
+            <name>Raphaël Troncy</name>
+            <city>Biot</city>
+        </editor>
+        <editor>
+            <name>Carine Bournez</name>
+            <city>Nice</city>
+        </editor>
+        <editor>
+            <name>Christian de Sainte Marie</name>
+            <city>Gentilly Cedex</city>
+        </editor>
+        <editor>
+            <name>Ivan Herman</name>
+            <city>Aix-en-Provence</city>
+        </editor>
+        <editor>
+            <name>Catherine Pelachaud</name>
+            <city>paris</city>
+        </editor>
+        <editor>
+            <name>Youenn Fablet</name>
+            <city>Rennes</city>
+        </editor>
+        <editor>
+            <name>Ghislain Auguste Atemezing</name>
+            <city>Paris</city>
+        </editor>
+        <editor>
+            <name>Antoine Zimmermann</name>
+            <city>Saint-Étienne</city>
+        </editor>
+        <editor>
+            <name>Andrei Sambra</name>
+            <city>Meudon</city>
+        </editor>
+        <editor>
+            <name>Maxime Lefrançois</name>
+            <city>Saint Etienne</city>
+        </editor>
+        <editor>
+            <name>Serena Villata</name>
+            <city>Sophia Antipolis</city>
+        </editor>
+        <editor>
+            <name>Laurent Le Meur</name>
+            <city>Paris</city>
+        </editor>
+        <editor>
+            <name>Pierre-Antoine Champin</name>
+            <city>Lyon</city>
+        </editor>
+        <editor>
+            <name>Daniel Dardailler</name>
+            <city>Grasse</city>
+        </editor>
+    </country>
+    <country code="CA" editorCount="21">
+        <editor>
+            <name>Lauren Wood</name>
+            <city>Vancouver</city>
+        </editor>
+        <editor>
+            <name>Jutta Treviranus</name>
+            <city>Toronto</city>
+        </editor>
+        <editor>
+            <name>Jan Richards</name>
+            <city>Toronto</city>
+        </editor>
+        <editor>
+            <name>François Yergeau</name>
+            <city>Québec</city>
+        </editor>
+        <editor>
+            <name>Stephen Watt</name>
+            <city>Waterloo</city>
+        </editor>
+        <editor>
+            <name>Andrew Emmons</name>
+            <city>Kanata</city>
+        </editor>
+        <editor>
+            <name>Michael Dyck</name>
+            <city>x</city>
+        </editor>
+        <editor>
+            <name>John Boyer</name>
+            <city>Victoria</city>
+        </editor>
+        <editor>
+            <name>David Orchard</name>
+            <city>Vancover</city>
+        </editor>
+        <editor>
+            <name>Joseph Scheuhammer</name>
+            <city>Toronto</city>
+        </editor>
+        <editor>
+            <name>Liam Quin</name>
+            <city>Milford</city>
+        </editor>
+        <editor>
+            <name>Amelia Bellamy-Royds</name>
+            <city>Edmonton</city>
+        </editor>
+        <editor>
+            <name>Cullen Jennings</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>David MacDonald</name>
+            <city>Ottawa</city>
+        </editor>
+        <editor>
+            <name>Evan Prodromou</name>
+            <city>Montreal</city>
+        </editor>
+        <editor>
+            <name>Matt Garrish</name>
+            <city>Owen Sound</city>
+        </editor>
+        <editor>
+            <name>Rick Byers</name>
+            <city>Waterloo</city>
+        </editor>
+        <editor>
+            <name>John Foliot</name>
+            <city>Lanark</city>
+        </editor>
+        <editor>
+            <name>Paul Cotton</name>
+            <city>Ottawa</city>
+        </editor>
+        <editor>
+            <name>Arthur Ryman</name>
+            <city>Thornhill</city>
+        </editor>
+        <editor>
+            <name>Henry Zongaro</name>
+            <city>Markham</city>
+        </editor>
+    </country>
+    <country code="DE" editorCount="18">
+        <editor>
+            <name>Markus Lauff</name>
+            <city>Walldorf</city>
+        </editor>
+        <editor>
+            <name>Christian Lieske</name>
+            <city>Walldorf</city>
+        </editor>
+        <editor>
+            <name>Daniel Oberle</name>
+            <city>Karlsruhe</city>
+        </editor>
+        <editor>
+            <name>Markus Krötzsch</name>
+            <city>Dresden</city>
+        </editor>
+        <editor>
+            <name>Michael Schneider</name>
+            <city>Frankfurt am Main</city>
+        </editor>
+        <editor>
+            <name>Kai Scheppe</name>
+            <city>Darmstadt</city>
+        </editor>
+        <editor>
+            <name>Birte Glimm</name>
+            <city>Ulm</city>
+        </editor>
+        <editor>
+            <name>Carlos A. Velasco</name>
+            <city>Sankt Augustin</city>
+        </editor>
+        <editor>
+            <name>Felix Burkhardt</name>
+            <city>Berlin</city>
+        </editor>
+        <editor>
+            <name>Giuseppe Pascale</name>
+            <city>Munich</city>
+        </editor>
+        <editor>
+            <name>Arle Lommel</name>
+            <city>Berlin</city>
+        </editor>
+        <editor>
+            <name>Benedikt Kaempgen</name>
+            <city>Karlsruhe</city>
+        </editor>
+        <editor>
+            <name>Sebastian Käbisch</name>
+            <city>Muenchen</city>
+        </editor>
+        <editor>
+            <name>Thomas Steiner</name>
+            <city>Hamburg</city>
+        </editor>
+        <editor>
+            <name>Danh Le Phuoc</name>
+            <city>Berlin</city>
+        </editor>
+        <editor>
+            <name>Andreas Rossberg</name>
+            <city>München</city>
+        </editor>
+        <editor>
+            <name>Ege Korkan</name>
+            <city>Munich</city>
+        </editor>
+        <editor>
+            <name>Paul Libbrecht</name>
+            <city>Bad Reichenhall</city>
+        </editor>
+    </country>
+    <country code="AU" editorCount="18">
+        <editor>
+            <name>Mark Nottingham</name>
+            <city>Prahran</city>
+        </editor>
+        <editor>
+            <name>Cameron McCormack</name>
+            <city>South Yarra</city>
+        </editor>
+        <editor>
+            <name>Renato Iannella</name>
+            <city>Yeronga</city>
+        </editor>
+        <editor>
+            <name>Alex Danilo</name>
+            <city>Freshwater</city>
+        </editor>
+        <editor>
+            <name>Scott Hollier</name>
+            <city>Fremantle</city>
+        </editor>
+        <editor>
+            <name>Simon Cox</name>
+            <city>Melbourne</city>
+        </editor>
+        <editor>
+            <name>Marcos Caceres</name>
+            <city>Melbourne</city>
+        </editor>
+        <editor>
+            <name>Silvia Pfeiffer</name>
+            <city>Melrose Park</city>
+        </editor>
+        <editor>
+            <name>Andrew Arch</name>
+            <city>Woodend</city>
+        </editor>
+        <editor>
+            <name>Eric Willigers</name>
+            <city>Pyrmont</city>
+        </editor>
+        <editor>
+            <name>Nikos Andronikos</name>
+            <city>North Ryde</city>
+        </editor>
+        <editor>
+            <name>Bernadette Hyland</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Matt Giuca</name>
+            <city>Sydney</city>
+        </editor>
+        <editor>
+            <name>David Wood</name>
+            <city>St Lucia South</city>
+        </editor>
+        <editor>
+            <name>Rob Manson</name>
+            <city>Sydney</city>
+        </editor>
+        <editor>
+            <name>Armin Haller</name>
+            <city>Canberra</city>
+        </editor>
+        <editor>
+            <name>Nicholas Car</name>
+            <city>Shorncliffe</city>
+        </editor>
+        <editor>
+            <name>Jean-Yves Avenard</name>
+            <city>Surrey Hills</city>
+        </editor>
+    </country>
+    <country code="NL" editorCount="13">
+        <editor>
+            <name>Steven Pemberton</name>
+            <city>Amsterdam</city>
+        </editor>
+        <editor>
+            <name>Guus Schreiber</name>
+            <city>Amsterdam</city>
+        </editor>
+        <editor>
+            <name>Jack Jansen</name>
+            <city>Amsterdam</city>
+        </editor>
+        <editor>
+            <name>Sjoerd Mullender</name>
+            <city>Amsterdam</city>
+        </editor>
+        <editor>
+            <name>Dick Bulterman</name>
+            <city>Amsterdam</city>
+        </editor>
+        <editor>
+            <name>Antoine Isaac</name>
+            <city>Amsterdam</city>
+        </editor>
+        <editor>
+            <name>Pablo Cesar</name>
+            <city>Amsterdam</city>
+        </editor>
+        <editor>
+            <name>Eric Velleman</name>
+            <city>Utrecht</city>
+        </editor>
+        <editor>
+            <name>Paul Groth</name>
+            <city>Amsterdam</city>
+        </editor>
+        <editor>
+            <name>Michel Dumontier</name>
+            <city>Maastricht</city>
+        </editor>
+        <editor>
+            <name>Zoë Bijl</name>
+            <city>Amersfoort</city>
+        </editor>
+        <editor>
+            <name>Frans Knibbe</name>
+            <city>Amsterdam</city>
+        </editor>
+        <editor>
+            <name>Wilco Fiers</name>
+            <city>Utrecht</city>
+        </editor>
+    </country>
+    <country code="ES" editorCount="12">
+        <editor>
+            <name>César Acebal</name>
+            <city>Oviedo</city>
+        </editor>
+        <editor>
+            <name>Jose Manuel Cantera Fonseca</name>
+            <city>BOECILLO - VALLADOLID</city>
+        </editor>
+        <editor>
+            <name>Chaals Nevile</name>
+            <city>Getafe</city>
+        </editor>
+        <editor>
+            <name>Alan Chuter</name>
+            <city>Madrid</city>
+        </editor>
+        <editor>
+            <name>Daniel Coloma</name>
+            <city>MADRID</city>
+        </editor>
+        <editor>
+            <name>José Manuel Alonso</name>
+            <city>Oviedo</city>
+        </editor>
+        <editor>
+            <name>Carlos Iglesias</name>
+            <city>Gijón</city>
+        </editor>
+        <editor>
+            <name>Boris Villazón-Terrazas</name>
+            <city>Pozuelo de Alarcón</city>
+        </editor>
+        <editor>
+            <name>Daniel Garijo</name>
+            <city>Boadilla del Monte</city>
+        </editor>
+        <editor>
+            <name>Nandana Mihindukulasooriya</name>
+            <city>Madrid</city>
+        </editor>
+        <editor>
+            <name>Víctor Rodríguez-Doncel</name>
+            <city>Madrid</city>
+        </editor>
+        <editor>
+            <name>Isaac Agudo</name>
+            <city>Malaga</city>
+        </editor>
+    </country>
+    <country code="JP" editorCount="8">
+        <editor>
+            <name>Florian Rivoal</name>
+            <city>Kyoto</city>
+        </editor>
+        <editor>
+            <name>Martin Dürst</name>
+            <city>Sagamihara</city>
+        </editor>
+        <editor>
+            <name>Kuniharu Takayama</name>
+            <city>Kawasaki</city>
+        </editor>
+        <editor>
+            <name>Koji Ishii</name>
+            <city>Tokyo</city>
+        </editor>
+        <editor>
+            <name>Karl Dubost</name>
+            <city>Tokyo</city>
+        </editor>
+        <editor>
+            <name>Brian Birtles</name>
+            <city>Tokyo</city>
+        </editor>
+        <editor>
+            <name>Kunihiko Toumura</name>
+            <city>Tokyo</city>
+        </editor>
+        <editor>
+            <name>Michael McCool</name>
+            <city>Chiyoda-ku</city>
+        </editor>
+    </country>
+    <country code="CN" editorCount="8">
+        <editor>
+            <name>Daniel Veillard</name>
+            <city>Xiamen</city>
+        </editor>
+        <editor>
+            <name>Fuqiao Xue</name>
+            <city>Beijing</city>
+        </editor>
+        <editor>
+            <name>Ningxin Hu</name>
+            <city>Shanghai</city>
+        </editor>
+        <editor>
+            <name>Qing An</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Xiaoqian Wu</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Chunming Hu</name>
+            <city>Beijing</city>
+        </editor>
+        <editor>
+            <name>Tengyuan Zhang</name>
+            <city>Beijing</city>
+        </editor>
+        <editor>
+            <name>Song XU</name>
+            <city>Ismeretlen</city>
+        </editor>
+    </country>
+    <country code="NO" editorCount="6">
+        <editor>
+            <name>Håkon Wium Lie</name>
+            <city>Oslo</city>
+        </editor>
+        <editor>
+            <name>Giorgi Chavchanidze</name>
+            <city>OSLO</city>
+        </editor>
+        <editor>
+            <name>Kjetil Kjernsmo</name>
+            <city>Heggedal</city>
+        </editor>
+        <editor>
+            <name>Richard Tibbett</name>
+            <city>Oslo</city>
+        </editor>
+        <editor>
+            <name>Rune Lillesveen</name>
+            <city>Rælingen</city>
+        </editor>
+        <editor>
+            <name>Hallvord Steen</name>
+            <city>Oslo</city>
+        </editor>
+    </country>
+    <country code="IE" editorCount="6">
+        <editor>
+            <name>Rotan Hanrahan</name>
+            <city>Dublin</city>
+        </editor>
+        <editor>
+            <name>Tony Graham</name>
+            <city>Skerries</city>
+        </editor>
+        <editor>
+            <name>Richard Cyganiak</name>
+            <city>Galway</city>
+        </editor>
+        <editor>
+            <name>David Filip</name>
+            <city>Dublin</city>
+        </editor>
+        <editor>
+            <name>David Lewis</name>
+            <city>Dublin</city>
+        </editor>
+        <editor>
+            <name>Deirdre Lee</name>
+            <city>Dublin</city>
+        </editor>
+    </country>
+    <country code="BE" editorCount="5">
+        <editor>
+            <name>Erik Mannens</name>
+            <city>Leuven</city>
+        </editor>
+        <editor>
+            <name>Jean Vanderdonckt</name>
+            <city>Louvain-la-Neuve</city>
+        </editor>
+        <editor>
+            <name>Julian Aubourg</name>
+            <city>Bussels</city>
+        </editor>
+        <editor>
+            <name>Klaas Bals</name>
+            <city>Hoboken</city>
+        </editor>
+        <editor>
+            <name>Nick Van Den Bleeken</name>
+            <city>Hoboken</city>
+        </editor>
+    </country>
+    <country code="SE" editorCount="5">
+        <editor>
+            <name>Rumen Kyusakov</name>
+            <city>Luleå</city>
+        </editor>
+        <editor>
+            <name>Niklas Widell</name>
+            <city>Lund</city>
+        </editor>
+        <editor>
+            <name>Claes Nilsson</name>
+            <city>Lund</city>
+        </editor>
+        <editor>
+            <name>Elad Alon</name>
+            <city>Ismeretlen</city>
+        </editor>
+        <editor>
+            <name>Johannes Wilm</name>
+            <city>Lund</city>
+        </editor>
+    </country>
+    <country code="IT" editorCount="5">
+        <editor>
+            <name>Paolo Baggia</name>
+            <city>Turin</city>
+        </editor>
+        <editor>
+            <name>Fabio Vitali</name>
+            <city>Bologna</city>
+        </editor>
+        <editor>
+            <name>Andrea Perego</name>
+            <city>Canegrate</city>
+        </editor>
+        <editor>
+            <name>Riccardo Albertoni</name>
+            <city>Genova</city>
+        </editor>
+        <editor>
+            <name>Aldo Gangemi</name>
+            <city>Bologna</city>
+        </editor>
+    </country>
+    <country code="AT" editorCount="5">
+        <editor>
+            <name>Konrad Lanz</name>
+            <city>Graz</city>
+        </editor>
+        <editor>
+            <name>Axel Polleres</name>
+            <city>Vienna</city>
+        </editor>
+        <editor>
+            <name>Werner Bailer</name>
+            <city>Graz</city>
+        </editor>
+        <editor>
+            <name>Martin Höffernig</name>
+            <city>Graz</city>
+        </editor>
+        <editor>
+            <name>Alois Reitbauer</name>
+            <city>Linz</city>
+        </editor>
+    </country>
+    <country code="FI" editorCount="3">
+        <editor>
+            <name>Guido Grassel</name>
+            <city>Helsinki</city>
+        </editor>
+        <editor>
+            <name>Petri Vuorimaa</name>
+            <city>Espoo</city>
+        </editor>
+        <editor>
+            <name>Arnaud Mandy</name>
+            <city>Espoo</city>
+        </editor>
+    </country>
+    <country code="IN" editorCount="3">
+        <editor>
+            <name>Biplav Srivastava</name>
+            <city>New Delhi</city>
+        </editor>
+        <editor>
+            <name>Swaran Lata</name>
+            <city>New Delhi</city>
+        </editor>
+        <editor>
+            <name>Avneesh Singh</name>
+            <city>New Delhi</city>
+        </editor>
+    </country>
+    <country code="DK" editorCount="2">
+        <editor>
+            <name>Kenneth Christiansen</name>
+            <city>Søborg</city>
+        </editor>
+        <editor>
+            <name>Ulf Bjorkengren</name>
+            <city>Helsingor</city>
+        </editor>
+    </country>
+    <country code="KR" editorCount="2">
+        <editor>
+            <name>Kangchan Lee</name>
+            <city>Dajeon</city>
+        </editor>
+        <editor>
+            <name>Sangwhan Moon</name>
+            <city>Seoul</city>
+        </editor>
+    </country>
+    <country code="CL" editorCount="2">
+        <editor>
+            <name>Marcelo Arenas</name>
+            <city>Santiago</city>
+        </editor>
+        <editor>
+            <name>Carlos Buil Aranda</name>
+            <city>Macul</city>
+        </editor>
+    </country>
+    <country code="GR" editorCount="2">
+        <editor>
+            <name>Dimitris Dimitriadis</name>
+            <city>Nea Ionia</city>
+        </editor>
+        <editor>
+            <name>Stasinos Konstantopoulos</name>
+            <city>Athens</city>
+        </editor>
+    </country>
+    <country code="TW" editorCount="1">
+        <editor>
+            <name>Bobby Tung</name>
+            <city>New Taipei City</city>
+        </editor>
+    </country>
+    <country code="BR" editorCount="1">
+        <editor>
+            <name>Bernadette Farias Loscio</name>
+            <city>Recife</city>
+        </editor>
+    </country>
+    <country code="MA" editorCount="1">
+        <editor>
+            <name>Azzeddine Lazrek</name>
+            <city>Marrakech</city>
+        </editor>
+    </country>
+    <country code="SG" editorCount="1">
+        <editor>
+            <name>Hui Jing Chen</name>
+            <city>Singapore</city>
+        </editor>
+    </country>
+    <country code="IL" editorCount="1">
+        <editor>
+            <name>Noam Rosenthal</name>
+            <city>Ismeretlen</city>
+        </editor>
+    </country>
+    <country code="CH" editorCount="1">
+        <editor>
+            <name>Jean-Pierre EVAIN</name>
+            <city>Grand-Saconnex</city>
+        </editor>
+    </country>
+    <country code="ZA" editorCount="1">
+        <editor>
+            <name>Adrian Hope-Bailie</name>
+            <city>Cape Town</city>
+        </editor>
+    </country>
+    <country code="CZ" editorCount="1">
+        <editor>
+            <name>James Fuller</name>
+            <city>Praha</city>
+        </editor>
+    </country>
+    <country code="PL" editorCount="1">
+        <editor>
+            <name>Dominik Tomaszuk</name>
+            <city>Bialystok</city>
+        </editor>
+    </country>
+    <country code="TR" editorCount="1">
+        <editor>
+            <name>Yeliz Yesilada</name>
+            <city>Ismeretlen</city>
+        </editor>
+    </country>
+</countries>

@@ -75,7 +75,7 @@ let $html := <html>
           <th>Status</th>
           <th>Date</th>
           <th>Editors</th>
-          <th>Delivery Groups</th>
+          <th>Deliverer Groups</th>
         </tr>
         {
           for $element in $filtered
@@ -97,9 +97,9 @@ let $html := <html>
               <td>
                 <ul>
                   {
-                    for $delivery in $element?latest?deliveries?*
+                    for $deliverer in $element?latest?deliverers?*
                     return
-                      <li>{$delivery?title}</li>
+                      <li>{$deliverer?title}</li>
                   }
                 </ul>
               </td>

@@ -24,7 +24,7 @@ let $allData :=
     let $specData := fn:json-doc(deik-utility:add-query-params($spec?href, map{}))
     let $latestData := fn:json-doc(deik-utility:add-query-params($specData?_links?latest-version?href, map{}))
     let $editorsData := fn:json-doc(deik-utility:add-query-params($latestData?_links?editors?href, map{}))
-    let $deliveriesData := fn:json-doc(deik-utility:add-query-params($latestData?_links?deliverers?href, map{}))
+    let $deliverersData := fn:json-doc(deik-utility:add-query-params($latestData?_links?deliverers?href, map{}))
     return
       map{
         "shortlink": $specData?shortlink,
@@ -36,7 +36,7 @@ let $allData :=
           "informative": $latestData?informative,
           "date": $latestData?date,
           "editors": $editorsData?_links?editors,
-          "deliveries": $deliveriesData?_links?deliverers
+          "deliverers": $deliverersData?_links?deliverers
         }
       }
   }
