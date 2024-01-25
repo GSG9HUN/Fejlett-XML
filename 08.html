@@ -3,670 +3,821 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <title>HTML Lap</title>
-    <style>
-        body {
-            font-family: 'Arial', sans-serif;
-            background-color: #f4f4f4;
-            color: #333;
-        }
-
-        h1 {
-            color: #0066cc;
-        }
-
-        .article {
-            border: 1px solid #ddd;
-            margin: 10px;
-            padding: 10px;
-            background-color: #fff;
-            border-radius: 5px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-
-        .editor {
-            font-style: italic;
-            color: #555;
-        }
-
-        a {
-            color: #0066cc;
-            text-decoration: none;
-        }
-
-        a:hover {
-            text-decoration: underline;
-        }
-    </style>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
 </head>
 <body>
 <h1>Szabványok ahol legalább három editor és két deliverer cég van.</h1>
-<div class="article">
-    <h2>XQuery 1.0 and XPath 2.0 Formal Semantics (Second Edition)</h2>
-    <p>This document defines formally the semantics of XQuery 1.0 [XQuery 1.0: An XML Query
-        Language] and XPath 2.0 [XML Path Language (XPath) 2.0].</p>
-    <p class="editor">
-        Szerkesztő(k):
-    <ul>
-        <li><a href="https://api.w3.org/users/jfu364mqmnsw8g88k44o8scc0c8008g" target="_blank">Denise Draper</a></li>
-    </ul>
-    <ul>
-        <li><a href="https://api.w3.org/users/1e4t34kk49wgg0o4gkok4w4okos8wsc" target="_blank">Michael Dyck</a></li>
-    </ul>
-    <ul>
-        <li><a href="https://api.w3.org/users/mc05rvyc9qsoww8wcc0g08ccw4c8sks" target="_blank">Peter Fankhauser</a></li>
-    </ul>
-    <ul>
-        <li><a href="https://api.w3.org/users/4zufvjfl6dc048cs0k0cckwk484oco8" target="_blank">Mary Fernandez</a></li>
-    </ul>
-    <ul>
-        <li><a href="https://api.w3.org/users/m9nobxw7nz4gkkcck0owgc80socso8s" target="_blank">Ashok Malhotra</a></li>
-    </ul>
-    <ul>
-        <li><a href="https://api.w3.org/users/480aa1w5kr28gcsc0ggs4oc8co4gscc" target="_blank">Kristoffer Rose</a></li>
-    </ul>
-    <ul>
-        <li><a href="https://api.w3.org/users/30r5wfbfv884ws8soog488kogwkwswg" target="_blank">Michael Rys</a></li>
-    </ul>
-    <ul>
-        <li><a href="https://api.w3.org/users/qbztj4d6mggocsg8os4wkowkokgkg8c" target="_blank">Jerome Simeon</a></li>
-    </ul>
-    <ul>
-        <li><a href="https://api.w3.org/users/f7z860br17cc4gwcss4cowogc0gcooo" target="_blank">Philip Wadler</a></li>
-    </ul>
-    </p>
-    <p>
-        További információ:
-        <a href="https://www.w3.org/TR/xquery-semantics/" target="_blank">https://www.w3.org/TR/xquery-semantics/</a>
-    </p>
+<div class="card w-50 m-auto">
+    <div class="card-body">
+        <h5 class="card-title">XQuery 1.0 and XPath 2.0 Formal Semantics (Second Edition)</h5>
+        <p>This document defines formally the semantics of XQuery 1.0 [XQuery 1.0: An XML Query
+            Language] and XPath 2.0 [XML Path Language (XPath) 2.0].</p>
+        <ol class="list-group list-group-numbered">
+            <p class="editor">
+                Szerkesztő(k):
+                <li class="list-group-item d-flex justify-content-between align-items-start">
+            <div class="ms-2 me-auto">
+                <div class="fw-bold">Denise Draper</div>
+            </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">Michael Dyck</div>
+                </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">Peter Fankhauser</div>
+                </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">Mary Fernandez</div>
+                </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">Ashok Malhotra</div>
+                </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">Kristoffer Rose</div>
+                </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">Michael Rys</div>
+                </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">Jerome Simeon</div>
+                </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">Philip Wadler</div>
+                </div>
+            </li>
+            </p>
+        </ol><a href="https://www.w3.org/TR/xquery-semantics/" target="_blank" class="btn btn-primary">További információ</a></div>
 </div>
-<div class="article">
-    <h2>rdf:PlainLiteral: A Datatype for RDF Plain Literals (Second Edition)</h2>
-    <p>Add content here.</p>
-    <p class="editor">
-        Szerkesztő(k):
-    <ul>
-        <li><a href="https://api.w3.org/users/i9v8ms8dpfk0kgskk84occ4swg8s0c0" target="_blank">Jie Bao</a></li>
-    </ul>
-    <ul>
-        <li><a href="https://api.w3.org/users/dtatea3girk0080kgc8skg0c08sw4wo" target="_blank">Sandro Hawke</a></li>
-    </ul>
-    <ul>
-        <li><a href="https://api.w3.org/users/pdy2r3ipbcgo8wcgws84k0gw8w0wwsk" target="_blank">Boris Motik</a></li>
-    </ul>
-    <ul>
-        <li><a href="https://api.w3.org/users/51kr2s2vw9c8wgssc8ookg88488s8ks" target="_blank">Peter Patel-Schneider</a>
-        </li>
-    </ul>
-    <ul>
-        <li><a href="https://api.w3.org/users/e3ns1hoc7yo8g4gkgs4sok4cww8o4o4" target="_blank">Axel Polleres</a></li>
-    </ul>
-    </p>
-    <p>
-        További információ:
-        <a href="https://www.w3.org/TR/rdf-plain-literal/" target="_blank">https://www.w3.org/TR/rdf-plain-literal/</a>
-    </p>
+<div class="card w-50 m-auto">
+    <div class="card-body">
+        <h5 class="card-title">rdf:PlainLiteral: A Datatype for RDF Plain Literals (Second Edition)</h5>
+        <p>Add content here.</p>
+        <ol class="list-group list-group-numbered">
+            <p class="editor">
+                Szerkesztő(k):
+                <li class="list-group-item d-flex justify-content-between align-items-start">
+            <div class="ms-2 me-auto">
+                <div class="fw-bold">Jie Bao</div>
+            </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">Sandro Hawke</div>
+                </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">Boris Motik</div>
+                </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">Peter Patel-Schneider</div>
+                </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">Axel Polleres</div>
+                </div>
+            </li>
+            </p>
+        </ol><a href="https://www.w3.org/TR/rdf-plain-literal/" target="_blank" class="btn btn-primary">További információ</a></div>
 </div>
-<div class="article">
-    <h2>Web Intents</h2>
-    <p>This specification defines a service discovery and light-weight RPC mechanism for
-        web apps called Web Intents. This document defines DOM interfaces and markup used
-        by client and service pages to create, receive, and reply to Web Intents messages,
-        and the procedures the User Agent carries out to facilitate that process.</p>
-    <p class="editor">
-        Szerkesztő(k):
-    <ul>
-        <li><a href="https://api.w3.org/users/f9ak9pf9k0occ00c80s8ss8o0w8ow8o" target="_blank">Greg Billock</a></li>
-    </ul>
-    <ul>
-        <li><a href="https://api.w3.org/users/br5ie51bd68s00osww0440w0s4kw044" target="_blank">James Hawkins</a></li>
-    </ul>
-    <ul>
-        <li><a href="https://api.w3.org/users/9edh9semd2ko884w8804wkwwwwoc4sg" target="_blank">Paul Kinlan</a></li>
-    </ul>
-    </p>
-    <p>
-        További információ:
-        <a href="https://www.w3.org/TR/web-intents/" target="_blank">https://www.w3.org/TR/web-intents/</a></p>
+<div class="card w-50 m-auto">
+    <div class="card-body">
+        <h5 class="card-title">Web Intents</h5>
+        <p>This specification defines a service discovery and light-weight RPC mechanism for
+            web apps called Web Intents. This document defines DOM interfaces and markup used
+            by client and service pages to create, receive, and reply to Web Intents messages,
+            and the procedures the User Agent carries out to facilitate that process.</p>
+        <ol class="list-group list-group-numbered">
+            <p class="editor">
+                Szerkesztő(k):
+                <li class="list-group-item d-flex justify-content-between align-items-start">
+            <div class="ms-2 me-auto">
+                <div class="fw-bold">Greg Billock</div>
+            </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">James Hawkins</div>
+                </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">Paul Kinlan</div>
+                </div>
+            </li>
+            </p>
+        </ol><a href="https://www.w3.org/TR/web-intents/" target="_blank" class="btn btn-primary">További információ</a></div>
 </div>
-<div class="article">
-    <h2>Mobile Accessibility: How WCAG 2.0 and Other W3C/WAI Guidelines Apply to Mobile</h2>
-    <p>Mobile Accessibility: How WCAG 2.0 and Other W3C/WAI Guidelines Apply to Mobile” describes
-        how the Web Content Accessibility Guidelines (WCAG) 2.0 and its principles, guidelines,
-        and success criteria can be applied to mobile web content, mobile web apps, native
-        apps, and hybrid apps using web components inside native apps. It provides informative
-        guidance, but does not set requirements. It also highlights the relevance of the User
-        Agent Accessibility Guidelines 2.0 in the mobile context.</p>
-    <p class="editor">
-        Szerkesztő(k):
-    <ul>
-        <li><a href="https://api.w3.org/users/m5g0ceohd9wc0wso0owwwok4c8ss4ks" target="_blank">Kimberly Patch</a></li>
-    </ul>
-    <ul>
-        <li><a href="https://api.w3.org/users/m440gf3h90gkgokc04gc8okk0ookwwg" target="_blank">Jeanne F Spellman</a>
-        </li>
-    </ul>
-    <ul>
-        <li><a href="https://api.w3.org/users/jqm1n15494goco80ookg8ok480scok8" target="_blank">Kathleen Wahlbin</a></li>
-    </ul>
-    </p>
-    <p>
-        További információ:
-        <a href="https://www.w3.org/TR/mobile-accessibility-mapping/" target="_blank">https://www.w3.org/TR/mobile-accessibility-mapping/</a>
-    </p>
+<div class="card w-50 m-auto">
+    <div class="card-body">
+        <h5 class="card-title">Mobile Accessibility: How WCAG 2.0 and Other W3C/WAI Guidelines Apply to Mobile</h5>
+        <p>Mobile Accessibility: How WCAG 2.0 and Other W3C/WAI Guidelines Apply to Mobile” describes
+            how the Web Content Accessibility Guidelines (WCAG) 2.0 and its principles, guidelines,
+            and success criteria can be applied to mobile web content, mobile web apps, native
+            apps, and hybrid apps using web components inside native apps. It provides informative
+            guidance, but does not set requirements. It also highlights the relevance of the User
+            Agent Accessibility Guidelines 2.0 in the mobile context.</p>
+        <ol class="list-group list-group-numbered">
+            <p class="editor">
+                Szerkesztő(k):
+                <li class="list-group-item d-flex justify-content-between align-items-start">
+            <div class="ms-2 me-auto">
+                <div class="fw-bold">Kimberly Patch</div>
+            </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">Jeanne F Spellman</div>
+                </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">Kathleen Wahlbin</div>
+                </div>
+            </li>
+            </p>
+        </ol><a href="https://www.w3.org/TR/mobile-accessibility-mapping/" target="_blank" class="btn btn-primary">További információ</a></div>
 </div>
-<div class="article">
-    <h2>CSS Properties and Values API Level 1</h2>
-    <p>This CSS module defines an API for registering new CSS properties. Properties registered
-        using this API are provided with a parse syntax that defines a type, inheritance behaviour,
-        and an initial value.</p>
-    <p class="editor">
-        Szerkesztő(k):
-    <ul>
-        <li><a href="https://api.w3.org/users/p3dte6mpoj4sgw888w8kw4w4skwosck" target="_blank">Tab Atkins Jr.</a></li>
-    </ul>
-    <ul>
-        <li><a href="https://api.w3.org/users/1qsm2xhvwolc8w804k4coooscocso8o" target="_blank">Daniel Glazman</a></li>
-    </ul>
-    <ul>
-        <li><a href="https://api.w3.org/users/7fvzlzd41fggsgckg0sggowcgsw0kgk" target="_blank">Alan Stearns</a></li>
-    </ul>
-    <ul>
-        <li><a href="https://api.w3.org/users/7excv9keqdc00c08sckcccck040ggkg" target="_blank">Greg Whitworth</a></li>
-    </ul>
-    <ul>
-        <li><a href="https://api.w3.org/users/t7cn9iiw88go80g04sgwcg84k0kooc0" target="_blank">Shane Stephens</a></li>
-    </ul>
-    </p>
-    <p>
-        További információ:
-        <a href="https://www.w3.org/TR/css-properties-values-api-1/" target="_blank">https://www.w3.org/TR/css-properties-values-api-1/</a>
-    </p>
+<div class="card w-50 m-auto">
+    <div class="card-body">
+        <h5 class="card-title">CSS Properties and Values API Level 1</h5>
+        <p>This CSS module defines an API for registering new CSS properties. Properties registered
+            using this API are provided with a parse syntax that defines a type, inheritance behaviour,
+            and an initial value.</p>
+        <ol class="list-group list-group-numbered">
+            <p class="editor">
+                Szerkesztő(k):
+                <li class="list-group-item d-flex justify-content-between align-items-start">
+            <div class="ms-2 me-auto">
+                <div class="fw-bold">Tab Atkins Jr.</div>
+            </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">Daniel Glazman</div>
+                </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">Alan Stearns</div>
+                </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">Greg Whitworth</div>
+                </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">Shane Stephens</div>
+                </div>
+            </li>
+            </p>
+        </ol><a href="https://www.w3.org/TR/css-properties-values-api-1/" target="_blank" class="btn btn-primary">További információ</a></div>
 </div>
-<div class="article">
-    <h2>CSS Typed OM Level 1</h2>
-    <p>Converting CSSOM value strings into meaningfully typed JavaScript representations
-        and back can incur a significant performance overhead. This specification exposes
-        CSS values as typed JavaScript objects to facilitate their performant manipulation.</p>
-    <p class="editor">
-        Szerkesztő(k):
-    <ul>
-        <li><a href="https://api.w3.org/users/t7cn9iiw88go80g04sgwcg84k0kooc0" target="_blank">Shane Stephens</a></li>
-    </ul>
-    <ul>
-        <li><a href="https://api.w3.org/users/p3dte6mpoj4sgw888w8kw4w4skwosck" target="_blank">Tab Atkins Jr.</a></li>
-    </ul>
-    <ul>
-        <li><a href="https://api.w3.org/users/ktb8yfbs8cg4owo4ogskoockgk480gs" target="_blank">Naina Raisinghani</a>
-        </li>
-    </ul>
-    </p>
-    <p>
-        További információ:
-        <a href="https://www.w3.org/TR/css-typed-om-1/" target="_blank">https://www.w3.org/TR/css-typed-om-1/</a></p>
+<div class="card w-50 m-auto">
+    <div class="card-body">
+        <h5 class="card-title">CSS Typed OM Level 1</h5>
+        <p>Converting CSSOM value strings into meaningfully typed JavaScript representations
+            and back can incur a significant performance overhead. This specification exposes
+            CSS values as typed JavaScript objects to facilitate their performant manipulation.</p>
+        <ol class="list-group list-group-numbered">
+            <p class="editor">
+                Szerkesztő(k):
+                <li class="list-group-item d-flex justify-content-between align-items-start">
+            <div class="ms-2 me-auto">
+                <div class="fw-bold">Shane Stephens</div>
+            </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">Tab Atkins Jr.</div>
+                </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">Naina Raisinghani</div>
+                </div>
+            </li>
+            </p>
+        </ol><a href="https://www.w3.org/TR/css-typed-om-1/" target="_blank" class="btn btn-primary">További információ</a></div>
 </div>
-<div class="article">
-    <h2>Making Content Usable for People with Cognitive and Learning Disabilities</h2>
-    <p>This document is a gap analysis and roadmap for the state of accessibility for people
-        with learning and cognitive disabilities when using the Web and information technologies.
-        It builds on the information presented in Cognitive Accessibility User Research and
-        Cognitive Accessibility Issue Papers to evaluate where user needs remain to be met
-        in technologies and accessibility guidelines. For various accessibility issues, this
-        document provides a summary of issues and techniques, then identifies gaps and unmet
-        user needs and suggest ways to meet these needs.</p>
-    <p class="editor">
-        Szerkesztő(k):
-    <ul>
-        <li><a href="https://api.w3.org/users/h6108ute2pkw0ow8wcws884sogkcs8o" target="_blank">Lisa Seeman-Horwitz</a>
-        </li>
-    </ul>
-    <ul>
-        <li><a href="https://api.w3.org/users/6pj2xgrhphc0ksokks8o0soowo84s00" target="_blank">Rachael Bradley
-            Montgomery</a></li>
-    </ul>
-    <ul>
-        <li><a href="https://api.w3.org/users/emrxmo7q3s8o0s4gkgo4c0wwwsgccwg" target="_blank">Steve Lee</a></li>
-    </ul>
-    <ul>
-        <li><a href="https://api.w3.org/users/7u0azic9fv0o84sosgw4840c0sg8ok8" target="_blank">Ruoxi Ran</a></li>
-    </ul>
-    </p>
-    <p>
-        További információ:
-        <a href="https://www.w3.org/TR/coga-usable/" target="_blank">https://www.w3.org/TR/coga-usable/</a></p>
+<div class="card w-50 m-auto">
+    <div class="card-body">
+        <h5 class="card-title">Making Content Usable for People with Cognitive and Learning Disabilities</h5>
+        <p>This document is a gap analysis and roadmap for the state of accessibility for people
+            with learning and cognitive disabilities when using the Web and information technologies.
+            It builds on the information presented in Cognitive Accessibility User Research and
+            Cognitive Accessibility Issue Papers to evaluate where user needs remain to be met
+            in technologies and accessibility guidelines. For various accessibility issues, this
+            document provides a summary of issues and techniques, then identifies gaps and unmet
+            user needs and suggest ways to meet these needs.</p>
+        <ol class="list-group list-group-numbered">
+            <p class="editor">
+                Szerkesztő(k):
+                <li class="list-group-item d-flex justify-content-between align-items-start">
+            <div class="ms-2 me-auto">
+                <div class="fw-bold">Lisa Seeman-Horwitz</div>
+            </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">Rachael Bradley Montgomery</div>
+                </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">Steve Lee</div>
+                </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">Ruoxi Ran</div>
+                </div>
+            </li>
+            </p>
+        </ol><a href="https://www.w3.org/TR/coga-usable/" target="_blank" class="btn btn-primary">További információ</a></div>
 </div>
-<div class="article">
-    <h2>XML Signature Syntax and Processing (Second Edition)</h2>
-    <p>This document specifies XML digital signature processing rules and syntax. XML Signatures
-        provide integrity, message authentication, and/or signer authentication services for
-        data of any type, whether located within the XML that includes the signature or elsewhere.</p>
-    <p class="editor">
-        Szerkesztő(k):
-    <ul>
-        <li><a href="https://api.w3.org/users/pir9i456fz4kogsogkskock4wccwksk" target="_blank">Donald Eastlake</a></li>
-    </ul>
-    <ul>
-        <li><a href="https://api.w3.org/users/2wrc18d98iyogs0o8kw8ckocoos8k0w" target="_blank">Joseph Reagle</a></li>
-    </ul>
-    <ul>
-        <li><a href="https://api.w3.org/users/73xm696wlu8ss8ggg0scsoo8ok4sos4" target="_blank">David Solo</a></li>
-    </ul>
-    <ul>
-        <li><a href="https://api.w3.org/users/dlddfiavn1w8o0s48o8cws8w4cckg8c" target="_blank">Frederick Hirsch</a></li>
-    </ul>
-    <ul>
-        <li><a href="https://api.w3.org/users/l5931fw615w4cg0owkk0gw40kw4ogco" target="_blank">Thomas Roessler</a></li>
-    </ul>
-    </p>
-    <p>
-        További információ:
-        <a href="https://www.w3.org/TR/xmldsig-core/" target="_blank">https://www.w3.org/TR/xmldsig-core/</a></p>
+<div class="card w-50 m-auto">
+    <div class="card-body">
+        <h5 class="card-title">XML Signature Syntax and Processing (Second Edition)</h5>
+        <p>This document specifies XML digital signature processing rules and syntax. XML Signatures
+            provide integrity, message authentication, and/or signer authentication services for
+            data of any type, whether located within the XML that includes the signature or elsewhere.</p>
+        <ol class="list-group list-group-numbered">
+            <p class="editor">
+                Szerkesztő(k):
+                <li class="list-group-item d-flex justify-content-between align-items-start">
+            <div class="ms-2 me-auto">
+                <div class="fw-bold">Donald Eastlake</div>
+            </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">Joseph Reagle</div>
+                </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">David Solo</div>
+                </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">Frederick Hirsch</div>
+                </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">Thomas Roessler</div>
+                </div>
+            </li>
+            </p>
+        </ol><a href="https://www.w3.org/TR/xmldsig-core/" target="_blank" class="btn btn-primary">További információ</a></div>
 </div>
-<div class="article">
-    <h2>XML Path Language (XPath) 2.0 (Second Edition)</h2>
-    <p>XPath is a way to refer to parts of an XML document. XPath 2.0 is based on the XQuery
-        1.0 and XPath 2.0 Data Model (XDM), and also introduces Schema awareness and data
-        typing.</p>
-    <p class="editor">
-        Szerkesztő(k):
-    <ul>
-        <li><a href="https://api.w3.org/users/n73mk31g68g88g8oskssoks88go4wc4" target="_blank">Anders Berglund</a></li>
-    </ul>
-    <ul>
-        <li><a href="https://api.w3.org/users/7j84n41902w4880ccg4kgccoccc0c44" target="_blank">Scott Boag</a></li>
-    </ul>
-    <ul>
-        <li><a href="https://api.w3.org/users/2v36lvesyr8kwwoc0sc8skcw8gg4cw0" target="_blank">Don Chamberlin</a></li>
-    </ul>
-    <ul>
-        <li><a href="https://api.w3.org/users/4zufvjfl6dc048cs0k0cckwk484oco8" target="_blank">Mary Fernandez</a></li>
-    </ul>
-    <ul>
-        <li><a href="https://api.w3.org/users/b2eu2soula0wssgwswo4s840owkckk8" target="_blank">Michael Kay</a></li>
-    </ul>
-    <ul>
-        <li><a href="https://api.w3.org/users/okhu9er5cogskwcso04sw8os048ccgg" target="_blank">Jonathan Robie</a></li>
-    </ul>
-    <ul>
-        <li><a href="https://api.w3.org/users/qbztj4d6mggocsg8os4wkowkokgkg8c" target="_blank">Jerome Simeon</a></li>
-    </ul>
-    </p>
-    <p>
-        További információ:
-        <a href="https://www.w3.org/TR/xpath20/" target="_blank">https://www.w3.org/TR/xpath20/</a></p>
+<div class="card w-50 m-auto">
+    <div class="card-body">
+        <h5 class="card-title">XML Path Language (XPath) 2.0 (Second Edition)</h5>
+        <p>XPath is a way to refer to parts of an XML document. XPath 2.0 is based on the XQuery
+            1.0 and XPath 2.0 Data Model (XDM), and also introduces Schema awareness and data
+            typing.</p>
+        <ol class="list-group list-group-numbered">
+            <p class="editor">
+                Szerkesztő(k):
+                <li class="list-group-item d-flex justify-content-between align-items-start">
+            <div class="ms-2 me-auto">
+                <div class="fw-bold">Anders Berglund</div>
+            </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">Scott Boag</div>
+                </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">Don Chamberlin</div>
+                </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">Mary Fernandez</div>
+                </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">Michael Kay</div>
+                </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">Jonathan Robie</div>
+                </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">Jerome Simeon</div>
+                </div>
+            </li>
+            </p>
+        </ol><a href="https://www.w3.org/TR/xpath20/" target="_blank" class="btn btn-primary">További információ</a></div>
 </div>
-<div class="article">
-    <h2>XPath Requirements Version 2.0</h2>
-    <p>Requirements for version 2.0 of XPath; we are now working on Version 2.1.</p>
-    <p class="editor">
-        Szerkesztő(k):
-    <ul>
-        <li><a href="https://api.w3.org/users/4zufvjfl6dc048cs0k0cckwk484oco8" target="_blank">Mary Fernandez</a></li>
-    </ul>
-    <ul>
-        <li><a href="https://api.w3.org/users/cex1ayvzxvcws08co88848cgg00s4k0" target="_blank">K Karun</a></li>
-    </ul>
-    <ul>
-        <li><a href="https://api.w3.org/users/91nf92dzxlogo884scoo08gco8g4scg" target="_blank">Mark Scardina</a></li>
-    </ul>
-    </p>
-    <p>
-        További információ:
-        <a href="https://www.w3.org/TR/xpath20req/" target="_blank">https://www.w3.org/TR/xpath20req/</a></p>
+<div class="card w-50 m-auto">
+    <div class="card-body">
+        <h5 class="card-title">XPath Requirements Version 2.0</h5>
+        <p>Requirements for version 2.0 of XPath; we are now working on Version 2.1.</p>
+        <ol class="list-group list-group-numbered">
+            <p class="editor">
+                Szerkesztő(k):
+                <li class="list-group-item d-flex justify-content-between align-items-start">
+            <div class="ms-2 me-auto">
+                <div class="fw-bold">Mary Fernandez</div>
+            </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">K Karun</div>
+                </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">Mark Scardina</div>
+                </div>
+            </li>
+            </p>
+        </ol><a href="https://www.w3.org/TR/xpath20req/" target="_blank" class="btn btn-primary">További információ</a></div>
 </div>
-<div class="article">
-    <h2>XQuery 1.0 and XPath 2.0 Functions and Operators (Second Edition)</h2>
-    <p>This document defines constructor functions, operators and functions on the datatypes
-        defined in [XML Schema Part 2: Datatypes Second Edition] and the datatypes defined
-        in [XQuery 1.0 and XPath 2.0 Data Model]. It also discusses functions and operators
-        on nodes and node sequences as defined in the [XQuery 1.0 and XPath 2.0 Data Model].
-        These functions and operators are defined for use in [XML Path Language (XPath) 2.0],
-        [XQuery 1.0: An XML Query Language] and [XSL Transformations (XSLT) Version 2.0] and
-        other related XML standards. The signatures and summaries of functions defined in
-        this document are available at: http://www.w3.org/2005/xpath-functions.</p>
-    <p class="editor">
-        Szerkesztő(k):
-    <ul>
-        <li><a href="https://api.w3.org/users/m9nobxw7nz4gkkcck0owgc80socso8s" target="_blank">Ashok Malhotra</a></li>
-    </ul>
-    <ul>
-        <li><a href="https://api.w3.org/users/dmpsb71oezsok4wco40sw08404gso8o" target="_blank">Jim Melton</a></li>
-    </ul>
-    <ul>
-        <li><a href="https://api.w3.org/users/hkss2c9sp14w400gso8s4okgg480cw4" target="_blank">Norman Walsh</a></li>
-    </ul>
-    <ul>
-        <li><a href="https://api.w3.org/users/b2eu2soula0wssgwswo4s840owkckk8" target="_blank">Michael Kay</a></li>
-    </ul>
-    </p>
-    <p>
-        További információ:
-        <a href="https://www.w3.org/TR/xpath-functions/" target="_blank">https://www.w3.org/TR/xpath-functions/</a></p>
+<div class="card w-50 m-auto">
+    <div class="card-body">
+        <h5 class="card-title">XQuery 1.0 and XPath 2.0 Functions and Operators (Second Edition)</h5>
+        <p>This document defines constructor functions, operators and functions on the datatypes
+            defined in [XML Schema Part 2: Datatypes Second Edition] and the datatypes defined
+            in [XQuery 1.0 and XPath 2.0 Data Model]. It also discusses functions and operators
+            on nodes and node sequences as defined in the [XQuery 1.0 and XPath 2.0 Data Model].
+            These functions and operators are defined for use in [XML Path Language (XPath) 2.0],
+            [XQuery 1.0: An XML Query Language] and [XSL Transformations (XSLT) Version 2.0] and
+            other related XML standards. The signatures and summaries of functions defined in
+            this document are available at: http://www.w3.org/2005/xpath-functions.</p>
+        <ol class="list-group list-group-numbered">
+            <p class="editor">
+                Szerkesztő(k):
+                <li class="list-group-item d-flex justify-content-between align-items-start">
+            <div class="ms-2 me-auto">
+                <div class="fw-bold">Ashok Malhotra</div>
+            </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">Jim Melton</div>
+                </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">Norman Walsh</div>
+                </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">Michael Kay</div>
+                </div>
+            </li>
+            </p>
+        </ol><a href="https://www.w3.org/TR/xpath-functions/" target="_blank" class="btn btn-primary">További információ</a></div>
 </div>
-<div class="article">
-    <h2>XQuery 1.0 and XPath 2.0 Data Model (XDM) (Second Edition)</h2>
-    <p>This document defines the W3C XQuery 1.0 and XPath 2.0 Data Model (XDM), which is
-        the data model of [XPath 2.0], [XSLT 2.0], and [XQuery], and any other specifications
-        that reference it. This data model is based on the [XPath 1.0] data model and earlier
-        work on an [XML Query Data Model]. This document is the result of joint work by the
-        [XSL Working Group] and the [XML Query Working Group].</p>
-    <p class="editor">
-        Szerkesztő(k):
-    <ul>
-        <li><a href="https://api.w3.org/users/n73mk31g68g88g8oskssoks88go4wc4" target="_blank">Anders Berglund</a></li>
-    </ul>
-    <ul>
-        <li><a href="https://api.w3.org/users/4zufvjfl6dc048cs0k0cckwk484oco8" target="_blank">Mary Fernandez</a></li>
-    </ul>
-    <ul>
-        <li><a href="https://api.w3.org/users/m9nobxw7nz4gkkcck0owgc80socso8s" target="_blank">Ashok Malhotra</a></li>
-    </ul>
-    <ul>
-        <li><a href="https://api.w3.org/users/szurl5mxhhcwoo40o800ssg0sog488w" target="_blank">Jonathan Marsh</a></li>
-    </ul>
-    <ul>
-        <li><a href="https://api.w3.org/users/tiip8cg3a1c8g80ssgowo8cooccskg4" target="_blank">Marton Nagy</a></li>
-    </ul>
-    <ul>
-        <li><a href="https://api.w3.org/users/hkss2c9sp14w400gso8s4okgg480cw4" target="_blank">Norman Walsh</a></li>
-    </ul>
-    </p>
-    <p>
-        További információ:
-        <a href="https://www.w3.org/TR/xpath-datamodel/" target="_blank">https://www.w3.org/TR/xpath-datamodel/</a></p>
+<div class="card w-50 m-auto">
+    <div class="card-body">
+        <h5 class="card-title">XQuery 1.0 and XPath 2.0 Data Model (XDM) (Second Edition)</h5>
+        <p>This document defines the W3C XQuery 1.0 and XPath 2.0 Data Model (XDM), which is
+            the data model of [XPath 2.0], [XSLT 2.0], and [XQuery], and any other specifications
+            that reference it. This data model is based on the [XPath 1.0] data model and earlier
+            work on an [XML Query Data Model]. This document is the result of joint work by the
+            [XSL Working Group] and the [XML Query Working Group].</p>
+        <ol class="list-group list-group-numbered">
+            <p class="editor">
+                Szerkesztő(k):
+                <li class="list-group-item d-flex justify-content-between align-items-start">
+            <div class="ms-2 me-auto">
+                <div class="fw-bold">Anders Berglund</div>
+            </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">Mary Fernandez</div>
+                </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">Ashok Malhotra</div>
+                </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">Jonathan Marsh</div>
+                </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">Marton Nagy</div>
+                </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">Norman Walsh</div>
+                </div>
+            </li>
+            </p>
+        </ol><a href="https://www.w3.org/TR/xpath-datamodel/" target="_blank" class="btn btn-primary">További információ</a></div>
 </div>
-<div class="article">
-    <h2>XSLT 2.0 and XQuery 1.0 Serialization (Second Edition)</h2>
-    <p>This document defines serialization of an instance of the data model as defined in
-        [XQuery 1.0 and XPath 2.0 Data Model] into a sequence of octets. Serialization is
-        designed to be a component that can be used by other specifications such as [XSL Transformations
-        (XSLT) Version 2.0] or [XQuery 1.0: An XML Query Language].</p>
-    <p class="editor">
-        Szerkesztő(k):
-    <ul>
-        <li><a href="https://api.w3.org/users/7j84n41902w4880ccg4kgccoccc0c44" target="_blank">Scott Boag</a></li>
-    </ul>
-    <ul>
-        <li><a href="https://api.w3.org/users/b2eu2soula0wssgwswo4s840owkckk8" target="_blank">Michael Kay</a></li>
-    </ul>
-    <ul>
-        <li><a href="https://api.w3.org/users/9t5jevctaxc8ss884o8o4o88kcsow4o" target="_blank">Joanne Tong</a></li>
-    </ul>
-    <ul>
-        <li><a href="https://api.w3.org/users/hkss2c9sp14w400gso8s4okgg480cw4" target="_blank">Norman Walsh</a></li>
-    </ul>
-    <ul>
-        <li><a href="https://api.w3.org/users/iajuyd6te1444g4k4g4soc8csksw8c0" target="_blank">Henry Zongaro</a></li>
-    </ul>
-    </p>
-    <p>
-        További információ:
-        <a href="https://www.w3.org/TR/xslt-xquery-serialization/" target="_blank">https://www.w3.org/TR/xslt-xquery-serialization/</a>
-    </p>
+<div class="card w-50 m-auto">
+    <div class="card-body">
+        <h5 class="card-title">XSLT 2.0 and XQuery 1.0 Serialization (Second Edition)</h5>
+        <p>This document defines serialization of an instance of the data model as defined in
+            [XQuery 1.0 and XPath 2.0 Data Model] into a sequence of octets. Serialization is
+            designed to be a component that can be used by other specifications such as [XSL Transformations
+            (XSLT) Version 2.0] or [XQuery 1.0: An XML Query Language].</p>
+        <ol class="list-group list-group-numbered">
+            <p class="editor">
+                Szerkesztő(k):
+                <li class="list-group-item d-flex justify-content-between align-items-start">
+            <div class="ms-2 me-auto">
+                <div class="fw-bold">Scott Boag</div>
+            </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">Michael Kay</div>
+                </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">Joanne Tong</div>
+                </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">Norman Walsh</div>
+                </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">Henry Zongaro</div>
+                </div>
+            </li>
+            </p>
+        </ol><a href="https://www.w3.org/TR/xslt-xquery-serialization/" target="_blank" class="btn btn-primary">További információ</a></div>
 </div>
-<div class="article">
-    <h2>XHTML Role Attribute Module</h2>
-    <p>The XHTML Role Attribute defined in this specification allows the author to annotate
-        XML Languages with machine-extractable semantic information about the purpose of an
-        element. Use cases include accessibility, device adaptation, server-side processing,
-        and complex data description. This attribute can be integrated into any markup language
-        based upon XHTML Modularization [XHTMLMOD].</p>
-    <p class="editor">
-        Szerkesztő(k):
-    <ul>
-        <li><a href="https://api.w3.org/users/drty9ysioc8wwo0o0o88c400ocw4cws" target="_blank">Mark Birbeck</a></li>
-    </ul>
-    <ul>
-        <li><a href="https://api.w3.org/users/11juricvpj2so8gg8w44sgssggc0gkw" target="_blank">Shane McCarron</a></li>
-    </ul>
-    <ul>
-        <li><a href="https://api.w3.org/users/s772qdb0xy8kgs8skckkkos8so44400" target="_blank">Steven Pemberton</a></li>
-    </ul>
-    <ul>
-        <li><a href="https://api.w3.org/users/5ezyassfghwkcs8g8cg08wkoko88o8g" target="_blank">T.V. Raman</a></li>
-    </ul>
-    <ul>
-        <li><a href="https://api.w3.org/users/rldphnh1x6sg0ckcocwkocs4cskg80s" target="_blank">Richard Schwerdtfeger</a>
-        </li>
-    </ul>
-    </p>
-    <p>
-        További információ:
-        <a href="https://www.w3.org/TR/xhtml-role/" target="_blank">https://www.w3.org/TR/xhtml-role/</a></p>
+<div class="card w-50 m-auto">
+    <div class="card-body">
+        <h5 class="card-title">XHTML Role Attribute Module</h5>
+        <p>The XHTML Role Attribute defined in this specification allows the author to annotate
+            XML Languages with machine-extractable semantic information about the purpose of an
+            element. Use cases include accessibility, device adaptation, server-side processing,
+            and complex data description. This attribute can be integrated into any markup language
+            based upon XHTML Modularization [XHTMLMOD].</p>
+        <ol class="list-group list-group-numbered">
+            <p class="editor">
+                Szerkesztő(k):
+                <li class="list-group-item d-flex justify-content-between align-items-start">
+            <div class="ms-2 me-auto">
+                <div class="fw-bold">Mark Birbeck</div>
+            </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">Shane McCarron</div>
+                </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">Steven Pemberton</div>
+                </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">T.V. Raman</div>
+                </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">Richard Schwerdtfeger</div>
+                </div>
+            </li>
+            </p>
+        </ol><a href="https://www.w3.org/TR/xhtml-role/" target="_blank" class="btn btn-primary">További információ</a></div>
 </div>
-<div class="article">
-    <h2>XQuery and XPath Full Text 1.0</h2>
-    <p>This document defines the syntax and formal semantics of XQuery and XPath Full Text
-        1.0 which is a language that extends XQuery 1.0 [XQuery 1.0: An XML Query Language]
-        and XPath 2.0 [XML Path Language (XPath) 2.0] with full-text search capabilities.</p>
-    <p class="editor">
-        Szerkesztő(k):
-    <ul>
-        <li><a href="https://api.w3.org/users/f7062u31n4844ggsoswwkssgs8s4k4k" target="_blank">Pat Case</a></li>
-    </ul>
-    <ul>
-        <li><a href="https://api.w3.org/users/1e4t34kk49wgg0o4gkok4w4okos8wsc" target="_blank">Michael Dyck</a></li>
-    </ul>
-    <ul>
-        <li><a href="https://api.w3.org/users/7z4xc04fyfsw8wokk0ow0scoksgwo4w" target="_blank">Mary Holstege</a></li>
-    </ul>
-    <ul>
-        <li><a href="https://api.w3.org/users/a8lg72umdhk40skw4k4k0cks84gs8ck" target="_blank">Sihem Amer-Yahia</a></li>
-    </ul>
-    <ul>
-        <li><a href="https://api.w3.org/users/r1qjot1xu5wco0kg4ww4cg4co8g08ow" target="_blank">Chavdar Botev</a></li>
-    </ul>
-    <ul>
-        <li><a href="https://api.w3.org/users/cl7pfaoeanwc0wcc4c0wgkogcs4sc8s" target="_blank">Stephen Buxton</a></li>
-    </ul>
-    <ul>
-        <li><a href="https://api.w3.org/users/jeftr1i93s0k4scwsow884o4go4ss08" target="_blank">Jochen Dörre</a></li>
-    </ul>
-    <ul>
-        <li><a href="https://api.w3.org/users/dmpsb71oezsok4wco40sw08404gso8o" target="_blank">Jim Melton</a></li>
-    </ul>
-    <ul>
-        <li><a href="https://api.w3.org/users/30r5wfbfv884ws8soog488kogwkwswg" target="_blank">Michael Rys</a></li>
-    </ul>
-    <ul>
-        <li><a href="https://api.w3.org/users/izyk0dygbrk8g844swwo0woc80kwgg8" target="_blank">Jayavel
-            Shanmugasundaram</a></li>
-    </ul>
-    </p>
-    <p>
-        További információ:
-        <a href="https://www.w3.org/TR/xpath-full-text-10/"
-           target="_blank">https://www.w3.org/TR/xpath-full-text-10/</a></p>
+<div class="card w-50 m-auto">
+    <div class="card-body">
+        <h5 class="card-title">XQuery and XPath Full Text 1.0</h5>
+        <p>This document defines the syntax and formal semantics of XQuery and XPath Full Text
+            1.0 which is a language that extends XQuery 1.0 [XQuery 1.0: An XML Query Language]
+            and XPath 2.0 [XML Path Language (XPath) 2.0] with full-text search capabilities.</p>
+        <ol class="list-group list-group-numbered">
+            <p class="editor">
+                Szerkesztő(k):
+                <li class="list-group-item d-flex justify-content-between align-items-start">
+            <div class="ms-2 me-auto">
+                <div class="fw-bold">Pat Case</div>
+            </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">Michael Dyck</div>
+                </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">Mary Holstege</div>
+                </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">Sihem Amer-Yahia</div>
+                </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">Chavdar Botev</div>
+                </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">Stephen Buxton</div>
+                </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">Jochen Dörre</div>
+                </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">Jim Melton</div>
+                </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">Michael Rys</div>
+                </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">Jayavel Shanmugasundaram</div>
+                </div>
+            </li>
+            </p>
+        </ol><a href="https://www.w3.org/TR/xpath-full-text-10/" target="_blank" class="btn btn-primary">További információ</a></div>
 </div>
-<div class="article">
-    <h2>XQuery and XPath Full Text 1.0 Requirements</h2>
-    <p>The document specifies requirements for Full-Text Search for use in XQuery [XQuery]
-        and XPath [XPath].</p>
-    <p class="editor">
-        Szerkesztő(k):
-    <ul>
-        <li><a href="https://api.w3.org/users/cl7pfaoeanwc0wcc4c0wgkogcs4sc8s" target="_blank">Stephen Buxton</a></li>
-    </ul>
-    <ul>
-        <li><a href="https://api.w3.org/users/f7062u31n4844ggsoswwkssgs8s4k4k" target="_blank">Pat Case</a></li>
-    </ul>
-    <ul>
-        <li><a href="https://api.w3.org/users/30r5wfbfv884ws8soog488kogwkwswg" target="_blank">Michael Rys</a></li>
-    </ul>
-    </p>
-    <p>
-        További információ:
-        <a href="https://www.w3.org/TR/xpath-full-text-10-requirements/" target="_blank">https://www.w3.org/TR/xpath-full-text-10-requirements/</a>
-    </p>
+<div class="card w-50 m-auto">
+    <div class="card-body">
+        <h5 class="card-title">XQuery and XPath Full Text 1.0 Requirements</h5>
+        <p>The document specifies requirements for Full-Text Search for use in XQuery [XQuery]
+            and XPath [XPath].</p>
+        <ol class="list-group list-group-numbered">
+            <p class="editor">
+                Szerkesztő(k):
+                <li class="list-group-item d-flex justify-content-between align-items-start">
+            <div class="ms-2 me-auto">
+                <div class="fw-bold">Stephen Buxton</div>
+            </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">Pat Case</div>
+                </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">Michael Rys</div>
+                </div>
+            </li>
+            </p>
+        </ol><a href="https://www.w3.org/TR/xpath-full-text-10-requirements/" target="_blank" class="btn btn-primary">További információ</a></div>
 </div>
-<div class="article">
-    <h2>Test Cases for C14N 1.1 and XMLDSig Interoperability</h2>
-    <p>This document defines interoperability test cases for Canonical XML 1.1 [XML-C14N1.1]
-        and XML Signature Syntax and Processing, Second Edition [XMLDSIG2]. The changes tested
-        include C14N11 handling of attributes in the XML namespace, including xml:id and xml:base,
-        appropriate C14N11 nodeset to octet stream transform processing, modifications to
-        RFC 3986 dot segment processing for C14N11, and RFC 4514 string encoding of Distinguished
-        Names. The tests include standalone C14N11 tests as well as tests integrated with
-        XML signature generation and validation. This document also includes earlier test
-        cases used in XML Signature [XMLDSIG] for regression testing.</p>
-    <p class="editor">
-        Szerkesztő(k):
-    <ul>
-        <li><a href="https://api.w3.org/users/74ok6j86y0g8sgow8k8wk8s0k404skk" target="_blank">Juan Carlos Cruellas</a>
-        </li>
-    </ul>
-    <ul>
-        <li><a href="https://api.w3.org/users/oruzgbnkhus448wwso004k8kwckg0cw" target="_blank">Konrad Lanz</a></li>
-    </ul>
-    <ul>
-        <li><a href="https://api.w3.org/users/jqvlda9vl340ccwsswssg0gsook0wc8" target="_blank">Sean Mullan</a></li>
-    </ul>
-    </p>
-    <p>
-        További információ:
-        <a href="https://www.w3.org/TR/xmldsig2ed-tests/" target="_blank">https://www.w3.org/TR/xmldsig2ed-tests/</a>
-    </p>
+<div class="card w-50 m-auto">
+    <div class="card-body">
+        <h5 class="card-title">Test Cases for C14N 1.1 and XMLDSig Interoperability</h5>
+        <p>This document defines interoperability test cases for Canonical XML 1.1 [XML-C14N1.1]
+            and XML Signature Syntax and Processing, Second Edition [XMLDSIG2]. The changes tested
+            include C14N11 handling of attributes in the XML namespace, including xml:id and xml:base,
+            appropriate C14N11 nodeset to octet stream transform processing, modifications to
+            RFC 3986 dot segment processing for C14N11, and RFC 4514 string encoding of Distinguished
+            Names. The tests include standalone C14N11 tests as well as tests integrated with
+            XML signature generation and validation. This document also includes earlier test
+            cases used in XML Signature [XMLDSIG] for regression testing.</p>
+        <ol class="list-group list-group-numbered">
+            <p class="editor">
+                Szerkesztő(k):
+                <li class="list-group-item d-flex justify-content-between align-items-start">
+            <div class="ms-2 me-auto">
+                <div class="fw-bold">Juan Carlos Cruellas</div>
+            </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">Konrad Lanz</div>
+                </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">Sean Mullan</div>
+                </div>
+            </li>
+            </p>
+        </ol><a href="https://www.w3.org/TR/xmldsig2ed-tests/" target="_blank" class="btn btn-primary">További információ</a></div>
 </div>
-<div class="article">
-    <h2>XML Path Language (XPath) 3.0</h2>
-    <p>XPath 3.0 (renamed from XPath 2.1 to align with the family of "3.0" specifications)
-        is an expression language that allows the processing of values conforming to the data
-        model defined in [XQuery and XPath Data Model (XDM) 3.0]. Some of the important new
-        features since XPath 2.0 are: Literal function items, inline functions, dynamic function
-        invocations, and function item coercion Clarification of rules associated with sequence
-        type matching let expressions EQNames (QNames with a namespace URI instead of a namespace
-        prefix) Support for union types in casting and function arguments</p>
-    <p class="editor">
-        Szerkesztő(k):
-    <ul>
-        <li><a href="https://api.w3.org/users/okhu9er5cogskwcso04sw8os048ccgg" target="_blank">Jonathan Robie</a></li>
-    </ul>
-    <ul>
-        <li><a href="https://api.w3.org/users/2v36lvesyr8kwwoc0sc8skcw8gg4cw0" target="_blank">Don Chamberlin</a></li>
-    </ul>
-    <ul>
-        <li><a href="https://api.w3.org/users/1e4t34kk49wgg0o4gkok4w4okos8wsc" target="_blank">Michael Dyck</a></li>
-    </ul>
-    <ul>
-        <li><a href="https://api.w3.org/users/muwspwtri9cow80s4soccogccowk8c4" target="_blank">John Snelson</a></li>
-    </ul>
-    </p>
-    <p>
-        További információ:
-        <a href="https://www.w3.org/TR/xpath-30/" target="_blank">https://www.w3.org/TR/xpath-30/</a></p>
+<div class="card w-50 m-auto">
+    <div class="card-body">
+        <h5 class="card-title">XML Path Language (XPath) 3.0</h5>
+        <p>XPath 3.0 (renamed from XPath 2.1 to align with the family of "3.0" specifications)
+            is an expression language that allows the processing of values conforming to the data
+            model defined in [XQuery and XPath Data Model (XDM) 3.0]. Some of the important new
+            features since XPath 2.0 are: Literal function items, inline functions, dynamic function
+            invocations, and function item coercion Clarification of rules associated with sequence
+            type matching let expressions EQNames (QNames with a namespace URI instead of a namespace
+            prefix) Support for union types in casting and function arguments</p>
+        <ol class="list-group list-group-numbered">
+            <p class="editor">
+                Szerkesztő(k):
+                <li class="list-group-item d-flex justify-content-between align-items-start">
+            <div class="ms-2 me-auto">
+                <div class="fw-bold">Jonathan Robie</div>
+            </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">Don Chamberlin</div>
+                </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">Michael Dyck</div>
+                </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">John Snelson</div>
+                </div>
+            </li>
+            </p>
+        </ol><a href="https://www.w3.org/TR/xpath-30/" target="_blank" class="btn btn-primary">További információ</a></div>
 </div>
-<div class="article">
-    <h2>XQuery and XPath Data Model 3.0</h2>
-    <p>XPath and XQuery Data Model (XDM) 3.0 (renamed from XPath and XQuery Functions and
-        Operators (XDM) 1.1 to align with the family of "3.0" specifications) defines the
-        data model on which all operations of XPath 3.0, XQuery 3.0, and XSLT 3.0 operate.
-        In this version of XDM, two new data types have been added: From XML Schema 1.1 Part
-        2 (Datatypes), the xs:dateTimeStamp data type To support XPath 3.0's and XQuery 3.0's
-        function item capabilities, a function item data type</p>
-    <p class="editor">
-        Szerkesztő(k):
-    <ul>
-        <li><a href="https://api.w3.org/users/hkss2c9sp14w400gso8s4okgg480cw4" target="_blank">Norman Walsh</a></li>
-    </ul>
-    <ul>
-        <li><a href="https://api.w3.org/users/n73mk31g68g88g8oskssoks88go4wc4" target="_blank">Anders Berglund</a></li>
-    </ul>
-    <ul>
-        <li><a href="https://api.w3.org/users/muwspwtri9cow80s4soccogccowk8c4" target="_blank">John Snelson</a></li>
-    </ul>
-    </p>
-    <p>
-        További információ:
-        <a href="https://www.w3.org/TR/xpath-datamodel-30/"
-           target="_blank">https://www.w3.org/TR/xpath-datamodel-30/</a></p>
+<div class="card w-50 m-auto">
+    <div class="card-body">
+        <h5 class="card-title">XQuery and XPath Data Model 3.0</h5>
+        <p>XPath and XQuery Data Model (XDM) 3.0 (renamed from XPath and XQuery Functions and
+            Operators (XDM) 1.1 to align with the family of "3.0" specifications) defines the
+            data model on which all operations of XPath 3.0, XQuery 3.0, and XSLT 3.0 operate.
+            In this version of XDM, two new data types have been added: From XML Schema 1.1 Part
+            2 (Datatypes), the xs:dateTimeStamp data type To support XPath 3.0's and XQuery 3.0's
+            function item capabilities, a function item data type</p>
+        <ol class="list-group list-group-numbered">
+            <p class="editor">
+                Szerkesztő(k):
+                <li class="list-group-item d-flex justify-content-between align-items-start">
+            <div class="ms-2 me-auto">
+                <div class="fw-bold">Norman Walsh</div>
+            </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">Anders Berglund</div>
+                </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">John Snelson</div>
+                </div>
+            </li>
+            </p>
+        </ol><a href="https://www.w3.org/TR/xpath-datamodel-30/" target="_blank" class="btn btn-primary">További információ</a></div>
 </div>
-<div class="article">
-    <h2>XSLT and XQuery Serialization 3.0</h2>
-    <p>XSLT and XQuery Serialization 3.0 (renamed from XQueryX 1.1 to align with the family
-        of "3.0" specifications) defines serialization of an instance of XDM 3.0 into a sequence
-        of octets. Important new features in Serialization 3.0 include: Supports serialization
-        of function items Adds a definition of a suppress-indentation serialization parameter
-        Clarifies how minimized attributes, as well as the "script" and "style" elements,
-        are handled under the rules of the HTML output method</p>
-    <p class="editor">
-        Szerkesztő(k):
-    <ul>
-        <li><a href="https://api.w3.org/users/iajuyd6te1444g4k4g4soc8csksw8c0" target="_blank">Henry Zongaro</a></li>
-    </ul>
-    <ul>
-        <li><a href="https://api.w3.org/users/2hagswxfm5k4s400ccssgo8okg8kksk" target="_blank">Andrew Coleman</a></li>
-    </ul>
-    <ul>
-        <li><a href="https://api.w3.org/users/t0uopbdfzasc0cg8kog0c04ogk84s84" target="_blank">Michael
-            Sperberg-McQueen</a></li>
-    </ul>
-    </p>
-    <p>
-        További információ:
-        <a href="https://www.w3.org/TR/xslt-xquery-serialization-30/" target="_blank">https://www.w3.org/TR/xslt-xquery-serialization-30/</a>
-    </p>
+<div class="card w-50 m-auto">
+    <div class="card-body">
+        <h5 class="card-title">XSLT and XQuery Serialization 3.0</h5>
+        <p>XSLT and XQuery Serialization 3.0 (renamed from XQueryX 1.1 to align with the family
+            of "3.0" specifications) defines serialization of an instance of XDM 3.0 into a sequence
+            of octets. Important new features in Serialization 3.0 include: Supports serialization
+            of function items Adds a definition of a suppress-indentation serialization parameter
+            Clarifies how minimized attributes, as well as the "script" and "style" elements,
+            are handled under the rules of the HTML output method</p>
+        <ol class="list-group list-group-numbered">
+            <p class="editor">
+                Szerkesztő(k):
+                <li class="list-group-item d-flex justify-content-between align-items-start">
+            <div class="ms-2 me-auto">
+                <div class="fw-bold">Henry Zongaro</div>
+            </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">Andrew Coleman</div>
+                </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">Michael Sperberg-McQueen</div>
+                </div>
+            </li>
+            </p>
+        </ol><a href="https://www.w3.org/TR/xslt-xquery-serialization-30/" target="_blank" class="btn btn-primary">További információ</a></div>
 </div>
-<div class="article">
-    <h2>XML Path Language (XPath) 3.1</h2>
-    <p>XPath is an expression language that allows the processing of values conforming to
-        the data model defined in the XQuery and Xpath Data Model.</p>
-    <p class="editor">
-        Szerkesztő(k):
-    <ul>
-        <li><a href="https://api.w3.org/users/okhu9er5cogskwcso04sw8os048ccgg" target="_blank">Jonathan Robie</a></li>
-    </ul>
-    <ul>
-        <li><a href="https://api.w3.org/users/1e4t34kk49wgg0o4gkok4w4okos8wsc" target="_blank">Michael Dyck</a></li>
-    </ul>
-    <ul>
-        <li><a href="https://api.w3.org/users/fdwojf9tqe8k8ckk44w8g4ckgo8gco8" target="_blank">Josh Spiegel</a></li>
-    </ul>
-    </p>
-    <p>
-        További információ:
-        <a href="https://www.w3.org/TR/xpath-31/" target="_blank">https://www.w3.org/TR/xpath-31/</a></p>
+<div class="card w-50 m-auto">
+    <div class="card-body">
+        <h5 class="card-title">XML Path Language (XPath) 3.1</h5>
+        <p>XPath is an expression language that allows the processing of values conforming to
+            the data model defined in the XQuery and Xpath Data Model.</p>
+        <ol class="list-group list-group-numbered">
+            <p class="editor">
+                Szerkesztő(k):
+                <li class="list-group-item d-flex justify-content-between align-items-start">
+            <div class="ms-2 me-auto">
+                <div class="fw-bold">Jonathan Robie</div>
+            </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">Michael Dyck</div>
+                </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">Josh Spiegel</div>
+                </div>
+            </li>
+            </p>
+        </ol><a href="https://www.w3.org/TR/xpath-31/" target="_blank" class="btn btn-primary">További információ</a></div>
 </div>
-<div class="article">
-    <h2>XQuery and XPath Data Model 3.1</h2>
-    <p>The XPath and XQuery Data Model (XDM) 3.1 defines the data model on which all operations
-        of XPath 3.1, XQuery 3.1, and XSLT 3.1 operate.</p>
-    <p class="editor">
-        Szerkesztő(k):
-    <ul>
-        <li><a href="https://api.w3.org/users/hkss2c9sp14w400gso8s4okgg480cw4" target="_blank">Norman Walsh</a></li>
-    </ul>
-    <ul>
-        <li><a href="https://api.w3.org/users/muwspwtri9cow80s4soccogccowk8c4" target="_blank">John Snelson</a></li>
-    </ul>
-    <ul>
-        <li><a href="https://api.w3.org/users/2hagswxfm5k4s400ccssgo8okg8kksk" target="_blank">Andrew Coleman</a></li>
-    </ul>
-    </p>
-    <p>
-        További információ:
-        <a href="https://www.w3.org/TR/xpath-datamodel-31/"
-           target="_blank">https://www.w3.org/TR/xpath-datamodel-31/</a></p>
+<div class="card w-50 m-auto">
+    <div class="card-body">
+        <h5 class="card-title">XQuery and XPath Data Model 3.1</h5>
+        <p>The XPath and XQuery Data Model (XDM) 3.1 defines the data model on which all operations
+            of XPath 3.1, XQuery 3.1, and XSLT 3.1 operate.</p>
+        <ol class="list-group list-group-numbered">
+            <p class="editor">
+                Szerkesztő(k):
+                <li class="list-group-item d-flex justify-content-between align-items-start">
+            <div class="ms-2 me-auto">
+                <div class="fw-bold">Norman Walsh</div>
+            </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">John Snelson</div>
+                </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">Andrew Coleman</div>
+                </div>
+            </li>
+            </p>
+        </ol><a href="https://www.w3.org/TR/xpath-datamodel-31/" target="_blank" class="btn btn-primary">További információ</a></div>
 </div>
-<div class="article">
-    <h2>XML Events 2</h2>
-    <p>The XML Events module defined in this specification provides XML languages with the
-        ability to uniformly integrate event listeners and associated event handlers with
-        Document Object Model (DOM) Level 2 event interfaces [DOM2EVENTS]. The result is to
-        provide an interoperable way of associating behaviors with document-level markup.</p>
-    <p class="editor">
-        Szerkesztő(k):
-    <ul>
-        <li><a href="https://api.w3.org/users/11juricvpj2so8gg8w44sgssggc0gkw" target="_blank">Shane McCarron</a></li>
-    </ul>
-    <ul>
-        <li><a href="https://api.w3.org/users/drty9ysioc8wwo0o0o88c400ocw4cws" target="_blank">Mark Birbeck</a></li>
-    </ul>
-    <ul>
-        <li><a href="https://api.w3.org/users/jr673qd02i8oswss88gkgwk08ko8wgg" target="_blank">Roland Merrick</a></li>
-    </ul>
-    </p>
-    <p>
-        További információ:
-        <a href="https://www.w3.org/TR/xml-events2/" target="_blank">https://www.w3.org/TR/xml-events2/</a></p>
+<div class="card w-50 m-auto">
+    <div class="card-body">
+        <h5 class="card-title">XML Events 2</h5>
+        <p>The XML Events module defined in this specification provides XML languages with the
+            ability to uniformly integrate event listeners and associated event handlers with
+            Document Object Model (DOM) Level 2 event interfaces [DOM2EVENTS]. The result is to
+            provide an interoperable way of associating behaviors with document-level markup.</p>
+        <ol class="list-group list-group-numbered">
+            <p class="editor">
+                Szerkesztő(k):
+                <li class="list-group-item d-flex justify-content-between align-items-start">
+            <div class="ms-2 me-auto">
+                <div class="fw-bold">Shane McCarron</div>
+            </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">Mark Birbeck</div>
+                </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">Roland Merrick</div>
+                </div>
+            </li>
+            </p>
+        </ol><a href="https://www.w3.org/TR/xml-events2/" target="_blank" class="btn btn-primary">További információ</a></div>
 </div>
 </body>
 </html>

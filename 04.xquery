@@ -4,12 +4,12 @@ import schema default element namespace "" at "04.xsd";
 let $json1 := json-doc('specifications.json')
 
 let $keywords := ('vector', 'graphics', 'animation') (: Példa kulcsszavakra :)
-
+(:contains helyett fn:matches:)
 let $selectedSpecifications :=
   for $spec in $json1?*
   where
     some $keyword in $keywords satisfies
-      contains($spec?title, $keyword) or contains($spec?description, $keyword)
+      fn:matches($spec?title, $keyword,"i") or fn:matches($spec?description, $keyword,"i")
   return $spec
 
 let $xml :=   <selectedSpecifications xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"

@@ -16,97 +16,55 @@ let $filtered := for $element in $json?*
 let $html := <html>
     <head>
       <title>Working Draft Status Elements</title>
-      <style>
-      {"body {
-             font-family: 'Arial', sans-serif;
-             background-color: #f4f4f4;
-             color: #333;
-             margin: 0;
-             padding: 0;
-           }
-           
-           .container {
-             max-width: 800px;
-             margin: 20px auto;
-             background-color: #fff;
-             padding: 20px;
-             border-radius: 8px;
-             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-           }
-           
-           h2 {
-             color: #007bff;
-           }
-           
-           table {
-             width: 100%;
-             border-collapse: collapse;
-             margin-top: 20px;
-           }
-           
-           th, td {
-             border: 1px solid #ddd;
-             padding: 12px;
-             text-align: left;
-           }
-           
-           th {
-             background-color: #f2f2f2;
-           }
-           
-           ul {
-             list-style-type: none;
-             margin: 0;
-             padding: 0;
-           }
-           
-           li {
-             margin-bottom: 5px;
-           }
-           "}
-      </style>
+      <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous"/>
     </head>
     <body>
       <h2>Elements with Working Draft Status</h2>
-      <table>
-        <tr>
-          <th>Title</th>
-          <th>Description</th>
-          <th>Status</th>
-          <th>Date</th>
-          <th>Editors</th>
-          <th>Deliverer Groups</th>
-        </tr>
-        {
-          for $element in $filtered
-          return
-            <tr>
-              <td>{$element?title}</td>
-              <td>{$element?description}</td>
-              <td>{$element?latest?status}</td>
-              <td>{$element?latest?date}</td>
-              <td>
-                <ul>
-                  {
-                    for $editor in $element?latest?editors?*
-                    return
-                      <li>{$editor?title}</li>
-                  }
-                </ul>
-              </td>
-              <td>
-                <ul>
-                  {
-                    for $deliverer in $element?latest?deliverers?*
-                    return
-                      <li>{$deliverer?title}</li>
-                  }
-                </ul>
-              </td>
-            </tr>
-        }
-      </table>
+      
     </body>
-  </html>
+       <div class="ms-5 me-5">
+       <ol class="list-group list-group-numbered">
+           {
+            for $element in $filtered
+            return <li class="list-group-item p-2 justify-content-between align-items-start">
+                        <div class="ms-2 me-auto flex-md-fill">
+                            <div class="fw-bold">{$element?title}</div>
+                            {$element?description}
+                           </div>
+                           <div><strong>Status : </strong>{$element?latest?status}</div>
+                           <div><strong>Latest date : </strong>{$element?latest?date}</div>
+                           <div>
+                           <div class="d-inline">
+                           <strong>Editors:</strong>
+                           <ol class="list-group list-group">
+                            {for $editor in $element?latest?editors?*
+                                   return            
+                                       <li class="list-group-item d-flex justify-content-between align-items-start">
+                                           <div>
+                                               {$editor?title} 
+                                           </div>
+                                       </li>         
+                               }
+                           </ol>
+                        </div>
+                        <div>
+                            <strong>Deliverers:</strong>
+                            <ol class="list-group list-group">
+                                {for $deliverer in $element?latest?deliverers?*
+                                    return 
+                                        <li class="list-group-item d-flex justify-content-between align-items-start">
+                                            <div class="ms-2 me-auto">
+                                                {$deliverer?title} 
+                                            </div>
+                                        </li>
+                                }
+                            </ol>
+                        </div>      
+                       </div>
+                    </li>
+                    }
+                </ol>
+            </div>
+    </html>
 
 return $html

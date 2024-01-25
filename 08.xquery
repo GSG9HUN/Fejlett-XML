@@ -16,42 +16,7 @@ let $minDeliverersCount :=2
 let $html := <html>
     <head>
       <title>HTML Lap</title>
-        <style>
-        {"
-          body {
-            font-family: 'Arial', sans-serif;
-            background-color: #f4f4f4;
-            color: #333;
-          }
-
-          h1 {
-            color: #0066cc;
-          }
-
-          .article {
-            border: 1px solid #ddd;
-            margin: 10px;
-            padding: 10px;
-            background-color: #fff;
-            border-radius: 5px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-          }
-
-          .editor {
-            font-style: italic;
-            color: #555;
-          }
-
-          a {
-            color: #0066cc;
-            text-decoration: none;
-          }
-
-          a:hover {
-            text-decoration: underline;
-          }
-        "}
-        </style>
+       <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous"/>
     </head>
     <body>
       <h1>Szabványok ahol legalább három editor és két deliverer cég van.</h1>
@@ -60,26 +25,28 @@ let $html := <html>
         where count($item?latest?editors?*) ge $minEditorsCount and
                     count($item?latest?deliverers?*) ge $minDeliverersCount
         return
-          <div class="article">
-            <h2>{local:clean-html($item?title)}</h2>
+          <div class="card w-50 m-auto">
+          <div class="card-body">
+            <h5 class="card-title">{local:clean-html($item?title)}</h5>
             <p>{local:clean-html($item?description)}</p>
+            <ol class="list-group list-group-numbered">
             <p class="editor">
-              Szerkesztő(k): {
-                for $editor in $item?latest?editors?*
+              Szerkesztő(k):{
+                for $editor in $item?latest?editors?*  
+                return  <li class="list-group-item d-flex justify-content-between align-items-start">
+                   <div class="ms-2 me-auto">
+                    <div class="fw-bold">{$editor?title}</div>
+                    </div>      
+                  </li>
                 
-                return
-                <ul>
-                <li>
-                  <a href="{$editor?href}" target="_blank">{$editor?title}</a>
-                </li>
-                </ul>
-                
-              }
-            </p>
-            <p>
-              További információ: 
-              <a href="{$item?shortlink}" target="_blank">{$item?shortlink}</a>
-            </p>
+              }</p>
+                  
+             
+            </ol>
+            <a href="{$item?shortlink}" target="_blank" class="btn btn-primary">További információ</a>
+          </div>
+
+           
           </div>
       }
     </body>

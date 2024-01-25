@@ -2,6 +2,18 @@
 <selectedSpecifications xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                         xsi:noNamespaceSchemaLocation="04.xsd">
     <specification>
+        <title>Hyper Graphics Markup Language (HGML)</title>
+        <description>&lt;p&gt;This document presents the conceptual design and basic specification for a Hyper Graphics Markup Language (HGML), providing a graphically-oriented alternative to HTML specifically designed for use in wireless contexts. HGML is highly optimised for use in conjunction with narrow-bandwidth channels between client and server. It offers three key features that enable it to reduce / replace the use of conventional bitmap images in WWW pages : namely drawing primitives, pre-stored image themes and image manipulation. &lt;/p&gt;</description>
+        <shortname>HGML</shortname>
+        <shortlink>https://www.w3.org/TR/NOTE-HGML</shortlink>
+        <latestData>
+            <date>1998-06-19</date>
+            <status>Note</status>
+            <editorsNumber>1</editorsNumber>
+            <deliverersNumber>1</deliverersNumber>
+        </latestData>
+    </specification>
+    <specification>
         <title>Precision Graphics Markup Language (PGML)</title>
         <description>&lt;p&gt;This document is the specification for the Precision Graphics Markup Language (PGML). PGML is a 2D scalable graphics language designed to meet both the simple vector graphics needs of casual users and the precision needs of graphics artists. PGML uses the imaging model common to the PostScript® language and Portable Document Format (PDF); it also contains additional features to satisfy the needs of Web applications.&lt;/p&gt;</description>
         <shortname>PGML</shortname>
@@ -33,6 +45,18 @@
         <latestData>
             <date>1998-12-03</date>
             <status>Note</status>
+            <editorsNumber>1</editorsNumber>
+            <deliverersNumber>1</deliverersNumber>
+        </latestData>
+    </specification>
+    <specification>
+        <title>Scalable Vector Graphics (SVG) Requirements</title>
+        <description>&lt;p&gt;The original requirements for SVG 1.0. &lt;/p&gt;</description>
+        <shortname>WD-SVGReq</shortname>
+        <shortlink>https://www.w3.org/TR/WD-SVGReq</shortlink>
+        <latestData>
+            <date>1998-10-29</date>
+            <status>Retired</status>
             <editorsNumber>1</editorsNumber>
             <deliverersNumber>1</deliverersNumber>
         </latestData>
@@ -86,6 +110,30 @@
         </latestData>
     </specification>
     <specification>
+        <title>Scalable Vector Graphics (SVG) Full 1.2 Specification</title>
+        <description>&lt;p&gt;This specification was intended as a monolithic replacment for SVG 1.1. Since then, work has focused instead on a modular, implementation-driven approach.&lt;/p&gt;</description>
+        <shortname>SVG12</shortname>
+        <shortlink>https://www.w3.org/TR/SVG12/</shortlink>
+        <latestData>
+            <date>2005-04-13</date>
+            <status>Retired</status>
+            <editorsNumber>2</editorsNumber>
+            <deliverersNumber>1</deliverersNumber>
+        </latestData>
+    </specification>
+    <specification>
+        <title>Portable Network Graphics (PNG) Specification</title>
+        <description>&lt;p&gt;This document describes PNG (Portable Network Graphics), an extensible file format for the lossless, portable, well-compressed storage of raster images. PNG provides a patent-free replacement for GIF and can also replace many common uses of TIFF. Indexed-color, grayscale, and truecolor images are supported, plus an optional alpha channel. Sample depths range from 1 to 16 bits.&lt;/p&gt; &lt;p&gt;PNG is designed to work well in online viewing applications, such as the World Wide Web, so it is fully streamable with a progressive display option. PNG is robust, providing both full file integrity checking and simple detection of common transmission errors. Also, PNG can store gamma and chromaticity data for improved color matching on heterogeneous platforms.&lt;/p&gt; &lt;p&gt;This specification defines an Internet Media Type image/png.&lt;/p&gt;</description>
+        <shortname>png-1</shortname>
+        <shortlink>https://www.w3.org/TR/PNG/</shortlink>
+        <latestData>
+            <date>1996-10-01</date>
+            <status>Recommendation</status>
+            <editorsNumber>1</editorsNumber>
+            <deliverersNumber>1</deliverersNumber>
+        </latestData>
+    </specification>
+    <specification>
         <title>Scalable Vector Graphics (SVG) Tiny 1.2 Specification</title>
         <description>&lt;p&gt;This specification defines the features and syntax for Scalable Vector Graphics (SVG) Tiny, Version 1.2, a language for describing two-dimensional vector graphics in XML, combined with raster graphics and multimedia. Its goal is to provide the ability to create a whole range of graphical content, from static images to animations to interactive Web applications. SVG 1.2 Tiny is a profile of SVG intended for implementation on a range of devices, from cellphones and PDAs to laptop and desktop computers, and thus includes a subset of the features included in SVG 1.1 Full, along with new features to extend the capabilities of SVG. Further extensions are planned in the form of modules which will be compatible with SVG 1.2 Tiny, and which when combined with this specification, will match and exceed the capabilities of SVG 1.1 Full.&lt;/p&gt;</description>
         <shortname>SVGTiny12</shortname>
@@ -106,6 +154,18 @@
             <date>2009-10-01</date>
             <status>Working Draft</status>
             <editorsNumber>2</editorsNumber>
+            <deliverersNumber>1</deliverersNumber>
+        </latestData>
+    </specification>
+    <specification>
+        <title>CSS Animations Level 1</title>
+        <description>&lt;p&gt;CSS Animations allow an author to modify CSS property values over time.&lt;/p&gt;</description>
+        <shortname>css-animations-1</shortname>
+        <shortlink>https://www.w3.org/TR/css-animations-1/</shortlink>
+        <latestData>
+            <date>2023-03-02</date>
+            <status>Working Draft</status>
+            <editorsNumber>4</editorsNumber>
             <deliverersNumber>1</deliverersNumber>
         </latestData>
     </specification>
@@ -174,6 +234,18 @@
         </latestData>
     </specification>
     <specification>
+        <title>Web Animations</title>
+        <description>&lt;p&gt;This specification defines a model for synchronization and timing of changes to the presentation of a Web page. This specification also defines an application programming interface for interacting with this model and it is expected that further specifications will define declarative means for exposing these features. &lt;/p&gt;</description>
+        <shortname>web-animations-1</shortname>
+        <shortlink>https://www.w3.org/TR/web-animations-1/</shortlink>
+        <latestData>
+            <date>2023-06-05</date>
+            <status>Working Draft</status>
+            <editorsNumber>4</editorsNumber>
+            <deliverersNumber>1</deliverersNumber>
+        </latestData>
+    </specification>
+    <specification>
         <title>SVG Integration</title>
         <description>&lt;p&gt;SVG Integration defines how SVG documents must be processed when used&#xD;
 in various contexts, such as CSS background images, HTML ‘iframe’&#xD;
@@ -232,6 +304,18 @@ restricted or disabled, such as scripting and animation.&lt;/p&gt;</description>
         </latestData>
     </specification>
     <specification>
+        <title>Graphics Accessibility API Mappings</title>
+        <description>&lt;p&gt;Defines how user agents map the WAI-ARIA Graphics Module markup to platform accessibility APIs.&lt;/p&gt;</description>
+        <shortname>graphics-aam-1.0</shortname>
+        <shortlink>https://www.w3.org/TR/graphics-aam-1.0/</shortlink>
+        <latestData>
+            <date>2018-10-02</date>
+            <status>Recommendation</status>
+            <editorsNumber>3</editorsNumber>
+            <deliverersNumber>1</deliverersNumber>
+        </latestData>
+    </specification>
+    <specification>
         <title>CSS Easing Functions Level 1</title>
         <description>&lt;p&gt;This CSS module describes a way for authors to define a transformation to be applied to the time of an animation. This can be used to produce animations that mimic physical phenomena such as momentum or to cause the animation to move in discrete steps producing robot-like movement.&lt;/p&gt;</description>
         <shortname>css-easing-1</shortname>
@@ -240,6 +324,18 @@ restricted or disabled, such as scripting and animation.&lt;/p&gt;</description>
             <date>2023-02-13</date>
             <status>Candidate Recommendation Draft</status>
             <editorsNumber>3</editorsNumber>
+            <deliverersNumber>1</deliverersNumber>
+        </latestData>
+    </specification>
+    <specification>
+        <title>Using the ITU BT.2100 PQ EOTF with the PNG Format</title>
+        <description>&lt;p&gt;This specification defines a mechanism for storing images that use the Reference PQ EOTF specified in [BT2100-1] in the Portable Network Graphics (PNG) format, without modification to existing chunks or the introduction of new chunks.&lt;/p&gt;</description>
+        <shortname>png-hdr-pq</shortname>
+        <shortlink>https://www.w3.org/TR/png-hdr-pq/</shortlink>
+        <latestData>
+            <date>2017-09-11</date>
+            <status>Note</status>
+            <editorsNumber>1</editorsNumber>
             <deliverersNumber>1</deliverersNumber>
         </latestData>
     </specification>
@@ -256,6 +352,30 @@ restricted or disabled, such as scripting and animation.&lt;/p&gt;</description>
         </latestData>
     </specification>
     <specification>
+        <title>Portable Network Graphics (PNG) Specification (Third Edition)</title>
+        <description>&lt;p&gt;This document describes PNG (Portable Network Graphics), an extensible file format for the lossless, portable, well-compressed storage of static and animated raster images. PNG provides a patent-free replacement for GIF and can also replace many common uses of TIFF. Indexed-colour, greyscale, and truecolour images are supported, plus an optional alpha channel. Sample depths range from 1 to 16 bits.&lt;/p&gt;</description>
+        <shortname>png-3</shortname>
+        <shortlink>https://www.w3.org/TR/png-3/</shortlink>
+        <latestData>
+            <date>2023-09-21</date>
+            <status>Candidate Recommendation Snapshot</status>
+            <editorsNumber>5</editorsNumber>
+            <deliverersNumber>1</deliverersNumber>
+        </latestData>
+    </specification>
+    <specification>
+        <title>Web Animations Level 2</title>
+        <description>&lt;p&gt;This specification defines a model for synchronization and timing of changes to the presentation of a Web page. This specification also defines an application programming interface for interacting with this model and it is expected that further specifications will define declarative means for exposing these features.&lt;/p&gt;</description>
+        <shortname>web-animations-2</shortname>
+        <shortlink>https://www.w3.org/TR/web-animations-2/</shortlink>
+        <latestData>
+            <date>2023-02-21</date>
+            <status>First Public Working Draft</status>
+            <editorsNumber>2</editorsNumber>
+            <deliverersNumber>1</deliverersNumber>
+        </latestData>
+    </specification>
+    <specification>
         <title>CSS Animations Level 2</title>
         <description>&lt;p&gt;This CSS module describes a way for authors to animate the values of CSS properties over time, using keyframes. The behavior of these keyframe animations can be controlled by specifying their duration, number of repeats, and repeating behavior.&lt;/p&gt;</description>
         <shortname>css-animations-2</shortname>
@@ -264,6 +384,20 @@ restricted or disabled, such as scripting and animation.&lt;/p&gt;</description>
             <date>2023-06-02</date>
             <status>Working Draft</status>
             <editorsNumber>2</editorsNumber>
+            <deliverersNumber>1</deliverersNumber>
+        </latestData>
+    </specification>
+    <specification>
+        <title>Portable Network Graphics (PNG) Specification (Second Edition)</title>
+        <description>&lt;p&gt;This document describes PNG (Portable Network Graphics), an extensible file format for the lossless, portable, well-compressed storage of raster images. PNG provides a patent-free replacement for GIF and can also replace many common uses of TIFF. Indexed-color, grayscale, and truecolor images are supported, plus an optional alpha channel. Sample depths range from 1 to 16 bits.&lt;/p&gt;&#xD;
+&lt;p&gt;PNG is designed to work well in online viewing applications, such as the World Wide Web, so it is fully streamable with a progressive display option. PNG is robust, providing both full file integrity checking and simple detection of common transmission errors. Also, PNG can store gamma and chromaticity data for improved color matching on heterogeneous platforms.&lt;/p&gt;&#xD;
+&lt;p&gt;This specification defines an Internet Media Type image/png.&lt;/p&gt;</description>
+        <shortname>png-2</shortname>
+        <shortlink>https://www.w3.org/TR/PNG/</shortlink>
+        <latestData>
+            <date>2003-11-10</date>
+            <status>Recommendation</status>
+            <editorsNumber>1</editorsNumber>
             <deliverersNumber>1</deliverersNumber>
         </latestData>
     </specification>
@@ -311,6 +445,30 @@ restricted or disabled, such as scripting and animation.&lt;/p&gt;</description>
         <latestData>
             <date>2019-12-05</date>
             <status>Retired</status>
+            <editorsNumber>3</editorsNumber>
+            <deliverersNumber>1</deliverersNumber>
+        </latestData>
+    </specification>
+    <specification>
+        <title>Use of CGM as a Scalable Graphics Format</title>
+        <description>&lt;p&gt;This paper is an attempt to address some of the portability issues and to recommend how to use CGM on the World Wide Web. This will include the use of parameters to the OBJECT tag, how add links to CGM and the possible definition of a Web profile.&lt;/p&gt;</description>
+        <shortname>cgm</shortname>
+        <shortlink>https://www.w3.org/TR/NOTE-cgm</shortlink>
+        <latestData>
+            <date>1997-06-18</date>
+            <status>Note</status>
+            <editorsNumber>1</editorsNumber>
+            <deliverersNumber>1</deliverersNumber>
+        </latestData>
+    </specification>
+    <specification>
+        <title>WebGPU</title>
+        <description>&lt;p&gt;WebGPU exposes an API for performing operations, such as rendering and computation, on a Graphics Processing Unit.&lt;/p&gt;</description>
+        <shortname>webgpu</shortname>
+        <shortlink>https://www.w3.org/TR/webgpu/</shortlink>
+        <latestData>
+            <date>2024-01-08</date>
+            <status>Working Draft</status>
             <editorsNumber>3</editorsNumber>
             <deliverersNumber>1</deliverersNumber>
         </latestData>
